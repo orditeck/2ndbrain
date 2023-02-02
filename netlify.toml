@@ -1,3 +1,8 @@
+[[redirects]]
+  from = "/"
+  to = "/docs/home/"
+
+
 [build]
 command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone https://github.com/ppeetteerrs/obsidian-zola.git __site && __site/run.sh"
 publish = "public"
@@ -74,7 +79,3 @@ GRAPH_OPTIONS = """
         	},
         }
         """
-
-[[redirects]]
-  from = "/"
-  to = "/docs/home/"
