@@ -77,6 +77,6 @@ GRAPH_OPTIONS = """
 
 [[redirects]]
 from = "/"
-to = "/docs/home/"
+to = "/docs/readme/"
 status = 301
 force = true
