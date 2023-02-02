@@ -78,4 +78,3 @@ GRAPH_OPTIONS = """
 [[redirects]]
   from = "/"
   to = "/docs/home/"
-  query = {path = ":path"}
