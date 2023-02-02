@@ -76,7 +76,7 @@ GRAPH_OPTIONS = """
         """
 
 [[redirects]]
-  from = "/"
-  to = "/docs/home/"
-  status = 301
-  force = true
+from = "/"
+to = "/docs/home/"
+status = 301
+force = true
