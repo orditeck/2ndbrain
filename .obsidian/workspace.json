@@ -129,12 +129,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,6 +146,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b989c2eb73e2ef8e",
+  "active": "2c8aac8814dc2b51",
   "lastOpenFiles": []
 }
