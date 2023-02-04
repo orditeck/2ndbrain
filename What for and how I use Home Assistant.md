@@ -1,7 +1,7 @@
 I've been using Home Assistant for years now, and while I have many items on my todolist, I thought I could share what I currently use Home Assistant for and what is my setup. I tried several integrations and devices through the years. Some I came to love, some to forget, some to regret and finally, some to heartfully hate (looking at you, Tuya).
 
 ![[hasetup.png]]
-<sup><sub>The Thing / Main Controller / Smart Hub</sub></sup>
+<sup><sub>The Thing / Main Controller / Smart Hub / Keven hasn't named me 😢</sub></sup>
 
 But even after a few years of use, I feel like I'm still an amateur user. Home Assistant has so many features and so so many integrations to play with!
 
@@ -42,7 +42,7 @@ Then, on the same host, I have Photoprism, Deluge, Sonarr, Radarr, Jackett, Cadd
 For the sake of closing the Hardware part, I'm going to mention now that I currently use Zigbee with the main coordinator plugged through USB on the host and passed down to the VM. It'll change soon though since I bought a new PoE-powered one, and I'm very much looking forward to setting it up! It's this one: [SLZB-06 Zigbee Ethernet PoE USB LAN WIFI Adapter](https://smlight.tech/product/slzb-06/) from a small two-persons Ukrainian company founded in 2021 named SMLIGHT. They were producing their hardware in Kiev but since the war started in Feb 2022, they outsourced the production to China.
 
 ### Clients
-We used Home Assistant mainly through the "Center Hub" (picture at the top of the page) but also on our phones and smart watches. 
+We used Home Assistant mainly through the Hub (picture at the top of the page) but also on our phones and smart watches. 
 
 ## The integrations / smart devices / services
 
