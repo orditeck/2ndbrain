@@ -1,6 +1,14 @@
 I've been using Home Assistant for years now, and while I have many items on my todolist, I thought I could share what I currently use Home Assistant for and what is my setup. I tried several integrations and devices through the years. Some I came to love, some to forget, some to regret and finally, some to heartfully hate (looking at you, Tuya).
 
+![[hasetup.png]]
+
 But even after a few years of use, I feel like I'm still an amateur user. Home Assistant has so many features and so so many integrations to play with!
+
+Home Assistant can be very intimidating at the beginning. I wasn't that used to the YAML syntax and there was a bit of a learning curve there but I quickly started to like it. What's not to love in being able to manage my automations in VSCode. I'm sure there's an amazing UI for it in HA by now but nope thanks, I'm YAML team!
+
+But yeah, reading about all the automations, the devices, the protocols, the configurations, it can quickly be overwhelming. If you're looking to getting started but feel overwhelmed, just do it! It gets quickly very addictive 😃. 
+
+![[Pasted image 20230204175453.png]]
 
 ## My setup
 There are several ways to install Home Assistant and it can be installed on many different type of devices. From my reading on forums, it looks like lot of people install it on a Raspberry Pi. Pis aren't exactly cheap in Canada and they're not that easy to get. I'm also never 100% sure of what my use of Home Assistant would or will be, it's such a powerful piece of software and it has so many cool integrations that I preferred having something a bit too powerful than the contrary. 
@@ -15,6 +23,7 @@ The Home Assistant Operating System (formerly HassOS) can be installed on a lot 
 -   Virtual appliances
 
 ## The hardware
+### Server
 Since the PC I was installing Home Assistant to was, in my opinion, too powerful to only run HA, I went with the latest option from that list: virtual. I like to try to maximize the use of every computer I own, so I installed [Proxmox](https://www.proxmox.com/) and virtualized Home Assistant through a Virtual Machine. 
 
 The host PC specs are:
@@ -30,6 +39,9 @@ The VM's spec are:
 Then, on the same host, I have Photoprism, Deluge, Sonarr, Radarr, Jackett, Caddy, mailhog, vaultwarden and a container for coding / remote VSCode.
 
 For the sake of closing the Hardware part, I'm going to mention now that I currently use Zigbee with the main coordinator plugged through USB on the host and passed down to the VM. It'll change soon though since I bought a new PoE-powered one, and I'm very much looking forward to setting it up! It's this one: [SLZB-06 Zigbee Ethernet PoE USB LAN WIFI Adapter](https://smlight.tech/product/slzb-06/) from a small two-persons Ukrainian company founded in 2021 named SMLIGHT. They were producing their hardware in Kiev but since the war started in Feb 2022, they outsourced the production to China.
+
+### Clients
+We used Home Assistant mainly through the "Center Hub" (picture at the top of the page) but also on our phones and smart watches. 
 
 ## The integrations / smart devices / services
 
@@ -57,7 +69,7 @@ There's a lot I like about my Home Assistant setup, but here are the highlights.
 1. The smart lock unlocks the door at set times, e.g. when the kids are expected to come back from school. They don't need a key, and they can't lose a key they don't have.
 2. Smart Speakers tell the kids to get ready for school and to leave at specific them so we don't have to watch the time. A bit earlier in the winter because it takes longer to get dressed vs spring/autumn. Eventually I'd like to take the weather into consideration to dynamically remind them, for example, to bring a rain coat because it might rain on the way back.
 3. The kids' light turn on automatically at set time in the morning to let them know they can get up. If the light isn't on, it means it's still time to sleep! Exceptionably useful. They also turn off automatically around 8AM since they're not needed anymore and turned back on in the evening. We currently turn them off "manually (OK Google!)" after kissing them goodnight.
-4. The door automatically unlocks for my wife and I when we approach the house.
+4. The door automatically unlocks for my wife and I when we approach the house and we get a notification on our watch to let us know that it's now unlocked.
 5. The lights change based on the sun position, which is used to calculate the color temperature and brightness that is most fitting for that time of the day. Scientific research has shown that this helps to maintain your natural circadian rhythm (your biological clock) and might lead to improved sleep, mood, and general well-being. And let me tell you that it does for us!
 6. When away, if the door is unlocked/opened, I get an instant notification on my phone with a picture from the main entrance's camera.
 7. When away, I can unlock the door remotely. It's been hugely helpful, for example when we were 200km away for my wife's birthday and one of her friend didn't let me know that she was getting flowers delivered at our place. The delivery lady at least had my number and called me to ask where she could put the flower, she couldn't really leave them outside at -20°C. I was able to quickly unlock the door for her and watch her leave the flowers on the table with the indoor cameras.
