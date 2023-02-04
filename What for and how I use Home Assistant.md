@@ -1,5 +1,7 @@
 I've been using Home Assistant for years now, and while I have many items on my todolist, I thought I could share what I currently use Home Assistant for and what is my setup. I tried several integrations and devices through the years. Some I came to love, some to forget, some to regret and finally, some to heartfully hate (looking at you, Tuya).
 
+But even after a few years of use, I feel like I'm still an amateur user. Home Assistant has so many features and so so many integrations to play with!
+
 ## My setup
 There are several ways to install Home Assistant and it can be installed on many different type of devices. From my reading on forums, it looks like lot of people install it on a Raspberry Pi. Pis aren't exactly cheap in Canada and they're not that easy to get. I'm also never 100% sure of what my use of Home Assistant would or will be, it's such a powerful piece of software and it has so many cool integrations that I preferred having something a bit too powerful than the contrary. 
 
@@ -60,7 +62,9 @@ There's a lot I like about my Home Assistant setup, but here are the highlights.
 6. When away, if the door is unlocked/opened, I get an instant notification on my phone with a picture from the main entrance's camera.
 7. When away, I can unlock the door remotely. It's been hugely helpful, for example when we were 200km away for my wife's birthday and one of her friend didn't let me know that she was getting flowers delivered at our place. The delivery lady at least had my number and called me to ask where she could put the flower, she couldn't really leave them outside at -20°C. I was able to quickly unlock the door for her and watch her leave the flowers on the table with the indoor cameras.
 8. Adjust the heat pump temperature (eg: in the winter, reduce the temperature considerably during the night)
-
+9. Being able to open & close the blinds by the press of a button. I feel like I'm living in the future 😆. Eventually I'll automate them with the sunrise / sunset.
+10. I didn't received my plant's moisture monitor but I'm looking forward to being able to automate a notification to water the plant. It'll be useful too when we're away for an extended amount of time so that I can ask a family member to go water specific plants 😊.
+11. Having an alarm for when we leave for more than a few hours (eg: sleeping away). It's insanely loud and have proven itself reliable so far for when I forgot to disarm it (sorry sister 😅!).
 
 ### Adaptive Lighting
 This is my #1 favorite. I find it amazing to always have the perfect lighting in the house. That's when I actually stop to think about it, because otherwise, I really never think about it. That's how cool it is. I don't have to think to reduce the brightness of a light or feel like a light is too bright, too warm, too cold. It's just almost always perfect. I say almost because I did find myself having to take manual control once in a while but there are such isolated and rare events that they're not even worth mentioning. I highly recommend looking at this integration ([link](https://github.com/basnijholt/adaptive-lighting)).
@@ -80,3 +84,10 @@ I don't like smart 2.4Ghz WiFi devices. They're picky on the signal, often have 
 
 ### Tuya
 I really dislike the Tuya integration, it's a PITA to maintain, it often breaks or disconnects, has often long delays, etc. I tried buying "better" (I thought) bulbs from Costco from a reputable brand, Globe, and I dislike them just as much, if not more since they were a bit more expensive. 
+
+## What I look forward to try
+- Energy consumption: I'd like to know my consumption by breaker and/or devices.
+- Use the weather conditions more.
+- Have more of the simple automations (motion detect -> turn on light).
+- Use my existing sensors more (currently have no automation based on temperature or humidity).
+- Monitor the indoor air quality.
