@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Lab.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e7efaf4840499eec",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Lab.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Lab.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Lab.md"
+                "file": "README.md"
               }
             }
           }
@@ -163,8 +162,8 @@
   },
   "active": "d10cee5ae8a982cc",
   "lastOpenFiles": [
-    "Home Assistant - How I use it and for what.md",
     "Home Lab.md",
+    "Home Assistant - How I use it and for what.md",
     "assets/serv3.jpg",
     "assets/Pasted image 20230204175453.png",
     "assets/hasetup.png",

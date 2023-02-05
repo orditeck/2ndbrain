@@ -10,7 +10,6 @@ A lab in a place to experiment, a place to fail forward. Therefore, broadly, a h
 For tech enthusiasts, their home lab mainly refers to servers, networking, software and security. A place where you can try out new things and learn new technologies or equipment in the comfort of your home.
 
 ### But why
-
 ![[why-huh.gif]]
 
 My home lab is a place to:
