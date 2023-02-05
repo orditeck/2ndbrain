@@ -90,6 +90,10 @@ $200 reconditioned from Bauer System in February 2022
 #### Usage
 Host anything that is Window-specific and require dedicated processing power.
 
+It runs Windows 11 and run these services:
+- Blue Iris: video security software that provides recording and playback for up to 64 IP network cameras or webcams
+- Plex Media Server: the one place to find and access all our TV shows and movies
+
 #### Specs
 - Dell Precision 3440 SFF
 - CPU: Core i3-10100
@@ -141,10 +145,33 @@ Off-site backups:
 ---
 
 ### Ubiquiti APs
+![[Pasted image 20230205120806.png]]
+
+#### Usage
+Wi-Fi!
+
+#### Cost
+- Access Point WiFi 6 Long-Range: $250 in January 2022
+- 3x Access Point AC Lite: 
+	- 1x $137 in April 2018
+	- 1x $118 in June 2019
+	- 1x $121 in August 2020
 
 ---
 
 ### Switches
 
 ## Software
-Proxmox Lab:
+
+OPNsense
+Unifi Controller
+AdGuard
+Photoprism
+Deluge, Radarr, Sonarr & Jackett
+Web Development & Caddy
+Mailhog
+Vaultwarden
+[[Home Assistant - How I use it and for what|Home Assistant]]
+Blue Iris
+Plex Media Server
+Syncthing
