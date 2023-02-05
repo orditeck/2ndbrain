@@ -1,6 +1,6 @@
 ---
 extra:
- lead: "Home Assistant can be very intimidating at the beginning."
+  lead: "Home Assistant can be very intimidating at the beginning."
 ---
 
 ![Relative date](https://img.shields.io/date/1675563553?color=3482cc&label=📅%20Last%20updated)
