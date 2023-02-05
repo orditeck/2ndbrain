@@ -2,7 +2,7 @@
 
 I've been using Home Assistant for years now, and while I have many items on my todolist, I thought I could share what I currently use Home Assistant for and what is my setup. I tried several integrations and devices through the years. Some I came to love, some to forget, some to regret and finally, some to heartfully hate (looking at you, Tuya).
 
-![[hasetup.png]]
+![[hahub.png]]
 <sup><sub>The Thing / Main Controller / Smart Hub / Keven hasn't named me 😢</sub></sup>
 
 But even after a few years of use, I feel like I'm still an amateur user. Home Assistant has so many features and so so many integrations to play with!
