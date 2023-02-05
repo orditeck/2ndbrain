@@ -84,6 +84,7 @@ There's a lot I like about my Home Assistant setup, but here are the highlights.
 
 ### Adaptive Lighting
 ![[Pasted image 20230205125911.png]]
+
 This is my #1 favorite. I find it amazing to always have the perfect lighting in the house. That's when I actually stop to think about it, because otherwise, I really never think about it. That's how cool it is. I don't have to think to reduce the brightness of a light or feel like a light is too bright, too warm, too cold. It's just almost always perfect. I say almost because I did find myself having to take manual control once in a while but there are such isolated and rare events that they're not even worth mentioning. I highly recommend looking at this integration ([link](https://github.com/basnijholt/adaptive-lighting)).
 
 ### Zigbee / zigbee2mqtt
