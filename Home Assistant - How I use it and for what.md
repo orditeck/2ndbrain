@@ -39,7 +39,7 @@ The VM's spec are:
 - RAM: 4GB
 - HDD: 32GB
 
-Then, on the same host, I have Photoprism, Deluge, Sonarr, Radarr, Jackett, Caddy, mailhog, vaultwarden and a container for coding / remote VSCode. You can read more about my [homelab here](homelab).
+Then, on the same host, I have Photoprism, Deluge, Sonarr, Radarr, Jackett, Caddy, mailhog, vaultwarden and a container for coding / remote VSCode. You can read more about my [homelab here](Home%20Lab.md).
 
 For the sake of closing the Hardware part, I'm going to mention now that I currently use Zigbee with the main coordinator plugged through USB on the host and passed down to the VM. It'll change soon though since I bought a new PoE-powered one, and I'm very much looking forward to setting it up! It's this one: [SLZB-06 Zigbee Ethernet PoE USB LAN WIFI Adapter](https://smlight.tech/product/slzb-06/) from a small two-persons Ukrainian company founded in 2021 named SMLIGHT. They were producing their hardware in Kiev but since the war started in Feb 2022, they outsourced the production to China.
 

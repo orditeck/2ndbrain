@@ -2,5 +2,7 @@
   "spellcheck": true,
   "spellcheckLanguages": [
     "en-US"
-  ]
+  ],
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "assets"
 }

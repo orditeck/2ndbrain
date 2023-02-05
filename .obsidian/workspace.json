@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "beaa1aa3810b461d",
+        "id": "7fe29a825eb585d2",
         "type": "tabs",
         "children": [
           {
-            "id": "70170e95ffe81d21",
+            "id": "4112e3211b7b47d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homelab.md",
+                "file": "Home Assistant - How I use it and for what.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d10cee5ae8a982cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home Lab.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e7efaf4840499eec",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homelab.md",
+                "file": "Home Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homelab.md",
+                "file": "Home Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homelab.md"
+                "file": "Home Lab.md"
               }
             }
           }
@@ -134,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,11 +161,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70170e95ffe81d21",
+  "active": "d10cee5ae8a982cc",
   "lastOpenFiles": [
     "Home Assistant - How I use it and for what.md",
-    "Homelab.md",
-    "README.md",
-    "home.md"
+    "Home Lab.md",
+    "assets/serv3.jpg",
+    "assets/Pasted image 20230204175453.png",
+    "assets/hasetup.png",
+    "assets/Pasted image 20230205102346.png",
+    "assets/Pasted image 20230205102208.png",
+    "assets/Pasted image 20230205102150.png",
+    "serv3 1.jpg",
+    "serv3.jpg"
   ]
 }
