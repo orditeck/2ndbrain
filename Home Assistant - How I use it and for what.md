@@ -1,8 +1,6 @@
 ---
-title: "Home Assistant - How I use it and for what"
-
-extra:
-  lead: "Home Assistant can be very intimidating at the beginning."
+aliases: []
+tags: [dates:2023/02/04]
 ---
 
 I've been using Home Assistant for years now, and while I have many items on my todolist, I thought I could share what I currently use Home Assistant for and what is my setup. I tried several integrations and devices through the years. Some I came to love, some to forget, some to regret and finally, some to heartfully hate (looking at you, Tuya).
