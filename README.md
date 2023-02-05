@@ -1,3 +1,6 @@
+---
+tags: [/github/last-commit/orditeck/2ndbrain]
+---
 Hey there! 👋 Bonjour!
 
 I'm Keven, aka *orditeck* online, and this is my second brain / digital garden.
