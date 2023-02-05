@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What for and how I use Home Assistant.md",
+                "file": "Home Assistant - How I use it and for what.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What for and how I use Home Assistant.md",
+                "file": "Home Assistant - How I use it and for what.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What for and how I use Home Assistant.md",
+                "file": "Home Assistant - How I use it and for what.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What for and how I use Home Assistant.md"
+                "file": "Home Assistant - How I use it and for what.md"
               }
             }
           }
@@ -161,7 +161,7 @@
   },
   "active": "70170e95ffe81d21",
   "lastOpenFiles": [
-    "What for and how I use Home Assistant.md",
+    "Home Assistant - How I use it and for what.md",
     "README.md",
     "home.md"
   ]
