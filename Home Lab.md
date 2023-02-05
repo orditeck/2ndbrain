@@ -86,6 +86,8 @@ $280 brand new from Dell in November 2020
 #### Usage
 Network Attached Storage (NAS): a storage that's available to all devices on the network.
 
+I keep it very barebone as it's not a powerful machine.
+
 Divided in two volumes:
 1. Family (4TB)
 	- Photos
@@ -96,7 +98,12 @@ Divided in two volumes:
 	- Security Cameras recordings
 	- Proxmox backups
 
-Off-site backups to Wasabi (S3-like) for all important data. Also a real-time sync with Google Drive for my daily Syncthing directory for convenience, but that's something I'm aiming to remove in the near future since I haven't used Google Drive for ages.
+Apps installed:
+- [Syncthing](https://syncthing.net/) installed through the QPKG Store. It is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes.
+
+Off-site backups:
+- To Wasabi (S3-like) for all important data.
+- Also a real-time sync with Google Drive for my daily Syncthing directory for convenience, but that's something I'm aiming to remove in the near future since I haven't used Google Drive for ages.
 
 #### Specs
 - Model: TS-431P
@@ -105,6 +112,11 @@ Off-site backups to Wasabi (S3-like) for all important data. Also a real-time sy
 - Disks: 
 	- 2x 4TB RAID 1, Encrypted
 	- 2x 12TB RAID 1, Non Encrypted
+
+#### Cost
+- QNAP: $245 from Amazon in June 2018
+- 2x 4TB disks: 205$ from Amazon in March 2022 as one of the old drive started to fail S.M.A.R.T. tests.
+- 2x 12TB disks: $575 from BestBuy in February 2021, shucked from WD easystore 12TB USB 3.0 Desktop External Hard Drive (WDBAMA0120HBK-NESN)
 
 ---
 
