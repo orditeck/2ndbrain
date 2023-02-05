@@ -61,7 +61,7 @@ The Main Hub (the picture at the top of the page) is a small ThinkCentre M700 ru
 	- Bunch of smart bulbs
 		- TuYa TS0505B
 		- Sengled Zigbee Smart Light Bulbs
-- HACS: awesome tool
+- HACS: awesome tool to install & manage more custom integrations 
 - Tuya: I have a few WiFi smart bulbs and plugs that I bought on AliExpress. I don't like devices that use Tuya (more about that [here](#tuya)) and I'm slowly moving away / replacing them for Zigbee devices. Real bummer since I invested quite a lot of money in these WiFi devices when I started getting into smart devices.
 - localtuya: After my experience with Tuya, I decided to try out localtuya and it works well! I moved a few devices to it but I ended up switching to Zigbee so that's still a WIP.
 - Midea Aircon: allows us to control my Senville heat pump through HA.
