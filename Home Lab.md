@@ -5,7 +5,7 @@ Still a WIP!
 ### What's a home lab
 There are several definition of what a home lab is and I'll just go ahead and add mine on the pile. 
 
-A lab in a place to experiment, a place to fail forward. Therefore, broadly, a home lab is a place in your home that you use to research and teach yourself pretty much anything that tickles your interest. I don't know about you, but I'm so vague that for me I could be defining Earth right now. A huge playground.
+A lab is a place to experiment, a place to fail forward. Therefore, broadly, a home lab is a place in your home that you use to research and teach yourself pretty much anything that tickles your interest. I don't know about you, but I'm so vague that for me I could be defining Earth right now. A huge playground.
 
 For tech enthusiasts, their home lab mainly refers to servers, networking, software and security. A place where you can try out new things and learn new technologies or equipment in the comfort of your home.
 
