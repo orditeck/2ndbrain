@@ -15,15 +15,13 @@ For tech enthusiasts, their home lab mainly refers to servers, networking, softw
 
 My home lab is a place to:
 - self-host and own my data
+- have fun while learning
 - try, experiment, fail
-- test my patience
-- contemplate the meaning of life after losing countless hours for a missing character
-- lean
-- madidate
+- test my patience and contemplate the meaning of life after losing countless hours for a missing character in a config file
 
 ### How it started
 
-I started coding at an early age. It started with HTML & CSS ("coding"), then some JavaScript and then PHP. I really loved PHP. While EasyPHP wasn't bad, I really wanted to understand how it works and how to set it up **myself**.
+I started coding at an early age by reading online and self teaching myself. It started with HTML & CSS ("coding"), then some JavaScript and then PHP. I really loved PHP. While EasyPHP wasn't bad, I really wanted to understand how it works and how to set it up **myself**.
 
 ![[Pasted image 20230205103031.png]]
 
@@ -32,9 +30,9 @@ I started coding at an early age. It started with HTML & CSS ("coding"), then so
 ![[serv3.jpg]]
 <sup><sub>My Home Lab in 2006 at my parents, I had recently added fans 🤣</sub></sup>
 
-This picture above was taken in 2006 as was one iteration of my first home lab. The left server, using Windows XP, was running the Sphere server powering the small Ultima Online Apocalypse ([uoapo on GH](https://github.com/orditeck/uoapo)) shard for a small community of a hundred players. Truly golden times! I also, at different times, hosted CS1.6 servers, TeamSpeak / Mumble / Ventrilo, Wolfenstein: Enemy Territory, etc.
+This picture above was taken in 2006 as was one iteration of my first home lab. The server on the left, under Windows XP, was running the Sphere server powering the small Ultima Online Apocalypse ([uoapo on GH](https://github.com/orditeck/uoapo)) shard for a community of a hundred players. Truly golden times! I also, at different times, hosted CS1.6 servers, TeamSpeak / Mumble / Ventrilo, Wolfenstein: Enemy Territory server, etc.
 
-The right server was running Ubuntu Server and was my first experience with Linux. An incredible love story, much better than any movie one can watch 🤣.
+The PC on the right was running Ubuntu Server and was my first experience with Linux. An incredible love story, much better than any movie one can watch 🤣. It was primarily a public web server to host my small project, like Orkïka, a text-based web-browser medieval game written in PHP.
 
 ## Hardware
 
@@ -71,7 +69,7 @@ $200 reconditioned from Bauer System in February 2022
 
 ### The Mandatory Window Server
 #### Usage
-Host anything that is Window-specific and require dedicated processing power
+Host anything that is Window-specific and require dedicated processing power.
 
 #### Specs
 - Dell Precision 3440 SFF
@@ -85,6 +83,28 @@ $280 brand new from Dell in November 2020
 ---
 
 ### QNAP
+
+#### Usage
+Network Storage. 
+
+Divided in two volumes:
+1. Family (4TB)
+	- Photos
+	- Documents
+	- Syncthings
+2. Stuff (12TB)
+	- Torrents
+	- Security Cameras recordings
+
+Off-site backups to Wasabi for all important data. Also a real-time sync with Google Drive for my daily Syncthing directory for convenience, but that's something I'm aiming to remove in the near future.
+
+#### Specs
+- Model: TS-431P
+- CPU: ARM Cortex-A15 CPU @ 1.70GHz 
+- RAM: 1GB DDR3
+- Disks: 
+	- 2x 4TB RAID 1, Encrypted
+	- 2x 12TB RAID 1, Non Encrypted
 
 ---
 
