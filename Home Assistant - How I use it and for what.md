@@ -1,3 +1,8 @@
+---
+extra:
+ lead: "Home Assistant can be very intimidating at the beginning."
+---
+
 ![Relative date](https://img.shields.io/date/1675563553?color=3482cc&label=📅%20Last%20updated)
 
 I've been using Home Assistant for years now, and while I have many items on my todolist, I thought I could share what I currently use Home Assistant for and what is my setup. I tried several integrations and devices through the years. Some I came to love, some to forget, some to regret and finally, some to heartfully hate (looking at you, Tuya).
@@ -9,16 +14,16 @@ But even after a few years of use, I feel like I'm still an amateur user. Home A
 
 Home Assistant can be very intimidating at the beginning. I wasn't that used to the YAML syntax and there was a bit of a learning curve there but I quickly started to like it. What's not to love in being able to manage my automations in VSCode. I'm sure there's an amazing UI for it in HA by now but nope thanks, I'm YAML team!
 
-But yeah, reading about all the automations, the devices, the protocols, the configurations, it can quickly be overwhelming. If you're looking to getting started but feel overwhelmed, just do it! It gets quickly very addictive 😃. 
+But yeah, reading about all the automations, the devices, the protocols, the configurations, it can quickly be overwhelming. If you're looking to getting started but feel overwhelmed, just do it! It gets quickly very addictive 😃.
 
 ![[Pasted image 20230204175453.png]]
 
 ## My setup
-There are several ways to install Home Assistant and it can be installed on many different type of devices. From my reading on forums, it looks like lot of people install it on a Raspberry Pi. Pis aren't exactly cheap in Canada and they're not that easy to get. I'm also never 100% sure of what my use of Home Assistant would or will be, it's such a powerful piece of software and it has so many cool integrations that I preferred having something a bit too powerful than the contrary. 
+There are several ways to install Home Assistant and it can be installed on many different type of devices. From my reading on forums, it looks like lot of people install it on a Raspberry Pi. Pis aren't exactly cheap in Canada and they're not that easy to get. I'm also never 100% sure of what my use of Home Assistant would or will be, it's such a powerful piece of software and it has so many cool integrations that I preferred having something a bit too powerful than the contrary.
 
 Off-lease reconditioned PCs, on the other hands, are easily available. So that's the way I went, and it's pretty much always the way I go when I need a new machine for a project or a server. I highly recommend taking look at the [Bauer Systems Group's Price List](https://docs.google.com/spreadsheets/d/1-hKAmQahPcEV_h5mwflWGLWCQtqkKOBDbsakv4ee2u0) if you're in Canada and are looking for a low-cost option for a small server. I love the Tiny/Micro form factor. SSF is a good size too.
 
-The Home Assistant Operating System (formerly HassOS) can be installed on a lot of hardware, including: 
+The Home Assistant Operating System (formerly HassOS) can be installed on a lot of hardware, including:
 -   Raspberry Pi
 -   Hardkernel ODROID
 -   Asus Tinker Board
@@ -27,7 +32,7 @@ The Home Assistant Operating System (formerly HassOS) can be installed on a lot 
 
 ## The hardware
 ### Server
-Since the PC I was installing Home Assistant to was, in my opinion, too powerful to only run HA, I went with the latest option from that list: virtual. I like to try to maximize the use of every computer I own, so I installed [Proxmox](https://www.proxmox.com/) and virtualized Home Assistant through a Virtual Machine. 
+Since the PC I was installing Home Assistant to was, in my opinion, too powerful to only run HA, I went with the latest option from that list: virtual. I like to try to maximize the use of every computer I own, so I installed [Proxmox](https://www.proxmox.com/) and virtualized Home Assistant through a Virtual Machine.
 
 The host PC specs are:
 - CPU: i5-6500
@@ -44,7 +49,7 @@ Then, on the same host, I have Photoprism, Deluge, Sonarr, Radarr, Jackett, Cadd
 For the sake of closing the Hardware part, I'm going to mention now that I currently use Zigbee with the main coordinator plugged through USB on the host and passed down to the VM. It'll change soon though since I bought a new PoE-powered one, and I'm very much looking forward to setting it up! It's this one: [SLZB-06 Zigbee Ethernet PoE USB LAN WIFI Adapter](https://smlight.tech/product/slzb-06/) from a small two-persons Ukrainian company founded in 2021 named SMLIGHT. They were producing their hardware in Kiev but since the war started in Feb 2022, they outsourced the production to China.
 
 ### Clients
-We used Home Assistant mainly through the Hub (picture at the top of the page) but also on our phones and smart watches. 
+We used Home Assistant mainly through the Hub (picture at the top of the page) but also on our phones and smart watches.
 
 ## The integrations / smart devices / services
 
@@ -88,7 +93,7 @@ This is my #1 favorite. I find it amazing to always have the perfect lighting in
 I really like Zigbee as a protocol, it feels solid and stable. I can buy any brand and rely on zigbee2mqtt to have an adapter for it. And if there's none, I can create one and open a PR to have it added, which is actually what I did for the Schlage Smart Deadbolt I bought off Amazon even without any review! I can also buy different coordinator / router if I'm not happy with one I have. Zigbee are not the cheapest but also not the most expensive and are usually good quality. IKEA has a good variety of devices and is a big name. Xiaomi (Aqara etc) also makes amazing Zigbee devices. IMO the choices are much better than WiFi devices. I never tried Z-Wave so I have nothing to say about it.
 
 ### Aqara / any Xiaomi devices
-They're just well made, reliable and have good community support. 
+They're just well made, reliable and have good community support.
 
 ## What I can live with
 ### localtuya
@@ -98,7 +103,7 @@ localtuya is a very good alternative to the official tuya integration. It's reli
 I don't like smart 2.4Ghz WiFi devices. They're picky on the signal, often have delays and can easily become unavailable.
 
 ### Tuya
-I really dislike the Tuya integration, it's a PITA to maintain, it often breaks or disconnects, has often long delays, etc. I tried buying "better" (I thought) bulbs from Costco from a reputable brand, Globe, and I dislike them just as much, if not more since they were a bit more expensive. 
+I really dislike the Tuya integration, it's a PITA to maintain, it often breaks or disconnects, has often long delays, etc. I tried buying "better" (I thought) bulbs from Costco from a reputable brand, Globe, and I dislike them just as much, if not more since they were a bit more expensive.
 
 ## What I look forward to try
 - Energy consumption: I'd like to know my consumption by breaker and/or devices.
