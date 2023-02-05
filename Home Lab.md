@@ -78,7 +78,7 @@ It runs Proxmox and run these services:
 - Lenovo ThinkCentre M710S SFF
 - CPU: Core i5-6500
 - RAM: 24GB
-- SSD: 512GB
+- SSD: 512GB ADATA SU760
 
 #### Cost
 $200 reconditioned from Bauer System in February 2022
@@ -97,8 +97,9 @@ It runs Windows 11 and run these services:
 #### Specs
 - Dell Precision 3440 SFF
 - CPU: Core i3-10100
-- RAM: 16GB?
-- SSD: 512GB?
+- RAM: 24GB
+- SSD: Crucial P2 500GB PCIe
+- HDD: Western Digital 3TB WD Red Plus NAS
 
 #### Cost
 $280 brand new from Dell in November 2020
