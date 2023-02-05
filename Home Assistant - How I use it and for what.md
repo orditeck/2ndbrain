@@ -45,7 +45,7 @@ Complementary hardware:
 We used Home Assistant mainly through the Hub (picture at the top of the page) but also on our phones and smart watches.
 
 #### Main Hub
-The Main Hub (the picture at the top of the page) is a small  
+The Main Hub (the picture at the top of the page) is a small ThinkCentre M700 running Windows 11 with a Core i3-6100T, 8GB RAM, 256GB SSD. The monitor is the ASUS VT229H 21.5" and is multipoint touch. The PC cost us $275 and the monitor $200. We really liked that setup. It's placed near the main entrance so we use it to control the smart home, but also to check the weather, check the kids' school calendar, etc.
 
 ## The integrations / smart devices / services
 
