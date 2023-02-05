@@ -46,6 +46,8 @@ Host anything that is Window-specific and require dedicated processing power
 #### Cost
 $280 brand new from Dell in November 2020
 
+---
+
 ### QNAP
 
 ---
