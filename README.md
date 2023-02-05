@@ -1,4 +1,4 @@
-![](https://img.shields.io/github/last-commit/orditeck/2ndbrain)
+![GitHub last commit](https://img.shields.io/github/last-commit/orditeck/2ndbrain?label=last%20%F0%9F%A7%A0%20update)
 
 Hey there! 👋 Bonjour!
 
