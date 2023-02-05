@@ -40,6 +40,11 @@ The PC on the right was running Ubuntu Server and was my first experience with L
 #### Usage
 This machine hosts all the critical parts of our little infra. It uses a low power fanless CPU to stay on as long as possible when running on battery during power outages.
 
+It runs Proxmox and runs only three services:
+- OPNsense (VM)
+- Unifi Controller
+- AdGuard
+
 #### Specs
 - Qotom Mini PC Q750G5-S08 Fanless
 - NIC: 5x I225-V 2.5G
@@ -55,7 +60,19 @@ $320 brand new from AliExpress in October 2022
 ### Proxmox Lab / Recreational
 ![[Pasted image 20230205113735.png]]
 #### Usage
-Host everything that is not critical, doesn't require too much processing power and can be virtualized not to difficultly
+Host everything that is not critical, doesn't require too much processing power and can be virtualized not to difficultly.
+
+It runs Proxmox and run these services:
+- Photoprism: AI-Powered Photos App for the Decentralized Web
+- Deluge: torrent client
+- Radarr: movie collection manager 
+- Sonarr: software-based Personal Video Recorder (PVR) for TV shows
+- Jackett: API Support for your favorite torrent trackers
+- Barebone Ubuntu Server used as web server (Remote-SSH VSCode)
+- Caddy: powerful, enterprise-ready, open source web server with automatic HTTPS written in Go
+- Mailhog: email testing tool for developers
+- Vaultwarden: Alternative implementation of the [Bitwarden](https://bitwarden.com/) server API written in Rust and compatible with upstream Bitwarden clients
+- [[Home Assistant - How I use it and for what]]
 
 #### Specs
 - Lenovo ThinkCentre M710S SFF

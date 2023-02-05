@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Assistant - How I use it and for what.md",
+                "file": "Home Lab.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e7efaf4840499eec",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Home Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Home Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Home Lab.md"
               }
             }
           }
@@ -160,17 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d10cee5ae8a982cc",
+  "active": "4112e3211b7b47d7",
   "lastOpenFiles": [
-    "Home Lab.md",
     "Home Assistant - How I use it and for what.md",
+    "README.md",
+    "Home Lab.md",
     "assets/serv3.jpg",
     "assets/Pasted image 20230204175453.png",
     "assets/hasetup.png",
     "assets/Pasted image 20230205102346.png",
     "assets/Pasted image 20230205102208.png",
     "assets/Pasted image 20230205102150.png",
-    "serv3 1.jpg",
-    "serv3.jpg"
+    "serv3 1.jpg"
   ]
 }
