@@ -3,6 +3,7 @@ command = "mv netlify.toml .netlify.toml && rm -rf __obsidian __site && mkdir __
 publish = "public"
 
 [build.environment]
+COMMENTS_GISCUSS = "y"
 # (Optional) Text in landing page button
 LANDING_BUTTON = ""
 # (Optional) Site description on landing page
