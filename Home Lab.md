@@ -169,6 +169,16 @@ AdGuard
 Photoprism
 Deluge, Radarr, Sonarr & Jackett
 Web Development & Caddy
+- Caddy
+	- Extensions installed
+- minio
+- PGAdmin
+- redis
+- MariaDB
+- CodeServer
+- pm2
+- nginx
+- php
 Mailhog
 Vaultwarden
 [[Home Assistant - How I use it and for what|Home Assistant]]
