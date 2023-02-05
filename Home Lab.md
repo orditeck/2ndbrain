@@ -63,16 +63,16 @@ $320 brand new from AliExpress in October 2022
 Host everything that is not critical, doesn't require too much processing power and can be virtualized not to difficultly.
 
 It runs Proxmox and run these services:
-- Photoprism: AI-Powered Photos App for the Decentralized Web
-- Deluge: torrent client
-- Radarr: movie collection manager 
-- Sonarr: software-based Personal Video Recorder (PVR) for TV shows
-- Jackett: API Support for your favorite torrent trackers
-- Barebone Ubuntu Server used as web server (Remote-SSH VSCode)
-- Caddy: powerful, enterprise-ready, open source web server with automatic HTTPS written in Go
-- Mailhog: email testing tool for developers
-- Vaultwarden: Alternative implementation of the [Bitwarden](https://bitwarden.com/) server API written in Rust and compatible with upstream Bitwarden clients
-- [[Home Assistant - How I use it and for what]]
+- **Photoprism**: AI-Powered Photos App for the Decentralized Web
+- **Deluge**: torrent client
+- **Radarr**: movie collection manager 
+- **Sonarr**: software-based Personal Video Recorder (PVR) for TV shows
+- **Jackett**: API Support for your favorite torrent trackers
+- Barebone **Ubuntu Server** used as web server (Remote-SSH VSCode)
+- **Caddy**: powerful, enterprise-ready, open source web server with automatic HTTPS written in Go
+- **Mailhog**: email testing tool for developers
+- **Vaultwarden**: Alternative implementation of the [Bitwarden](https://bitwarden.com/) server API written in Rust and compatible with upstream Bitwarden clients
+- **[[Home Assistant - How I use it and for what|Home Assistant]]**
 
 #### Specs
 - Lenovo ThinkCentre M710S SFF
