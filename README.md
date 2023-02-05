@@ -1,5 +1,5 @@
 ---
-tags: [/github/last-commit/orditeck/2ndbrain]
+tags: [github/last-commit/orditeck/2ndbrain]
 ---
 Hey there! 👋 Bonjour!
 
