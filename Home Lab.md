@@ -37,13 +37,14 @@ The PC on the right was running Ubuntu Server and was my first experience with L
 ## Hardware
 
 ### Proxmox Critical
+![[Pasted image 20230205113019.png]]
 #### Usage
 This machine hosts all the critical parts of our little infra. It uses a low power fanless CPU to stay on as long as possible when running on battery during power outages.
 
-#### Specs:
-- Qotom Mini PC Q700G5 Fanless
+#### Specs
+- Qotom Mini PC Q750G5-S08 Fanless
 - NIC: 5x I225-V 2.5G
-- CPU: Celeron Quad Core Q750G5 AES-NI
+- CPU: Celeron J4125 Quad Core, 2.0GHz, Up to 2.7GHz, 4M Cache, 10W TDP
 - RAM: 8GB
 - SSD: 256GB
 
@@ -53,10 +54,11 @@ $320 brand new from AliExpress in October 2022
 ---
 
 ### Proxmox Lab / Recreational
+![[Pasted image 20230205113735.png]]
 #### Usage
 Host everything that is not critical, doesn't require too much processing power and can be virtualized not to difficultly
 
-#### Specs:
+#### Specs
 - Lenovo ThinkCentre M710S SFF
 - CPU: Core i5-6500
 - RAM: 24GB
@@ -68,6 +70,7 @@ $200 reconditioned from Bauer System in February 2022
 ---
 
 ### The Mandatory Window Server
+![[Pasted image 20230205113445.png]]
 #### Usage
 Host anything that is Window-specific and require dedicated processing power.
 
@@ -83,6 +86,7 @@ $280 brand new from Dell in November 2020
 ---
 
 ### QNAP
+![[Pasted image 20230205113100.png]]
 #### Usage
 Network Attached Storage (NAS): a storage that's available to all devices on the network.
 
