@@ -83,20 +83,20 @@ $280 brand new from Dell in November 2020
 ---
 
 ### QNAP
-
 #### Usage
-Network Storage. 
+Network Attached Storage (NAS): a storage that's available to all devices on the network.
 
 Divided in two volumes:
 1. Family (4TB)
 	- Photos
 	- Documents
-	- Syncthings
+	- Syncthing directories
 2. Stuff (12TB)
 	- Torrents
 	- Security Cameras recordings
+	- Proxmox backups
 
-Off-site backups to Wasabi for all important data. Also a real-time sync with Google Drive for my daily Syncthing directory for convenience, but that's something I'm aiming to remove in the near future.
+Off-site backups to Wasabi (S3-like) for all important data. Also a real-time sync with Google Drive for my daily Syncthing directory for convenience, but that's something I'm aiming to remove in the near future since I haven't used Google Drive for ages.
 
 #### Specs
 - Model: TS-431P
