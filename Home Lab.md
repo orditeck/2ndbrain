@@ -194,15 +194,15 @@ Moving away from Google Photos is part of a bigger plan to [move away from using
 
 So I downloaded/exported all my photos from Google using their export tool named [Google Takeout](https://takeout.google.com/), saved them on my QNAP and pointed Photoprism to that folder (readonly for now), then set up a backup job to Wasabi. The first backup took something like a week or two to complete 😬.
 
-My plan was to then remove from Google Photos all my photos and videos taken prior 2023, and then re-do the process in December 2023, and so on. Meaning manually export all my photos and videos every year. That way I'd still enjoy the easiness of using Google Photos, without keeping almost all my life's memories on their platform.
+My plan was to then remove from Google Photos all my photos and videos taken prior 2023, and re-do the process every year in December. That way I'd still enjoy the easiness of using Google Photos, without keeping almost all my lifetime's memories on that platform.
 
-I haven't done that. I was waiting for my first backup to complete before deleting all my data from Google Photos, but then as it took longer than I expected, I kinda moved on to another project. I'll eventually get back to it, but I wasn't fully satisfied with Photoprism after playing around a bit with it.
+I haven't done that yet. I was waiting for my first backup to complete before deleting all my data from Google Photos, but then as it took longer than I expected, I kinda moved on to other projects. I'll eventually get back to it, but I also wasn't fully satisfied with Photoprism after playing around a bit with it.
 
 So more to come!
 
 Now I'm diverging from the main subject and hopefully this part will become its own page at some point but I'll note it here for now: I was shocked, and not in a good way, at how many pictures I have.
 
-"Back in the days", we'd have 21 shots and we'd have to pay to get them printed, so they'd better be damn good, right? Today, I just tap tap tap tap that virtual shuttle button to make sure I don't miss a good shot. Then I look at the pictures to see if one (or more) are good and move on. I never actually take the time to delete shots that aren't as good and won't be used. They'll eventually just be in the way. But I just left them there. And it was shocking to see how many pictures it ended up being after years of doing that. I'm actually so lazy that I preferred to pay for Google One and get more storage than actually clean up my mess.
+"Back in the days", we'd have 21 shots and we'd have to pay to get them printed, so they'd better be damn good, right? Today, I just tap tap tap tap that virtual shutter button to make sure I don't miss a good shot. Then I look at the pictures to see if one (or more) are good and move on. I never actually take the time to delete shots that aren't as good and won't be used. They'll eventually just be in the way. But I just left them there. And it was shocking to see how many pictures it ended up being after years of doing that. I'm actually so lazy that I preferred to pay for Google One and get more storage than actually clean up my mess.
 
 ### Deluge, Radarr, Sonarr & Jackett
 
