@@ -202,7 +202,7 @@ So more to come!
 
 Now I'm diverging from the main subject and hopefully this part will become its own page at some point but I'll note it here for now: I was shocked, and not in a good way, at the amount of similar shots I have.
 
-"Back in the days", we'd have 21 shots and we'd have to pay to get them printed, so they'd better be damn good, right? Today, I just tap tap tap tap that virtual shutter button to make sure I don't miss a good shot. Then I look at the pictures to see if one (or more) are good and move on. I never actually take the time to delete shots that aren't as good and won't be used. They'll eventually just be in the way. But I just left them there. And it was shocking to see how many pictures it ended up being after years of doing that. I'm actually so lazy that I preferred to pay for Google One and get more storage than actually clean up my mess.
+"Back in the days", we'd have 21 shots and we'd have to pay to get them printed, so they'd better be good and worth it, right? Today, I just tap tap tap tap that virtual shutter button to make sure I don't miss a good shot. Then I look at the pictures to see if one (or more) are good and move on. I never actually take the time to delete shots that aren't as good and won't be used. They'll eventually just be in the way. But I just left them there. And it was shocking to see how many pictures it ended up being after years of doing that. I'm actually so lazy that I preferred to pay for Google One and get more storage than actually clean up my mess.
 
 ### Deluge, Radarr, Sonarr & Jackett
 
