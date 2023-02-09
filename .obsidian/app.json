@@ -4,5 +4,6 @@
     "en-US"
   ],
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "assets"
+  "attachmentFolderPath": "assets",
+  "useMarkdownLinks": true
 }

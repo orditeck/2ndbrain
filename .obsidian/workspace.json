@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Assistant - How I use it and for what.md",
+                "file": "Home Lab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e996206dcaf45e1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home Lab.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Assistant - How I use it and for what.md",
+                "file": "Home Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Assistant - How I use it and for what.md",
+                "file": "Home Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Assistant - How I use it and for what.md"
+                "file": "Home Lab.md"
               }
             }
           }
@@ -147,17 +160,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d10cee5ae8a982cc",
+  "active": "e996206dcaf45e1b",
   "lastOpenFiles": [
+    "From.md",
     "Home Lab.md",
+    "From the Google Ecosystem to kinda self-hosted.md",
     "Home Assistant - How I use it and for what.md",
     "assets/Pasted image 20230204175453.png",
     "assets/Pasted image 20230205103031.png",
     "assets/Pasted image 20230205113007.png",
     "assets/Pasted image 20230205113019.png",
     "assets/Pasted image 20230205113100.png",
-    "assets/Pasted image 20230205113445.png",
-    "assets/Pasted image 20230205113735.png",
-    "assets/Pasted image 20230205120806.png"
+    "assets/Pasted image 20230205113445.png"
   ]
 }

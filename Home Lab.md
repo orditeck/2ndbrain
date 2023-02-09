@@ -41,7 +41,7 @@ The PC on the right was running Ubuntu Server and was my first experience with L
 This machine hosts all the critical parts of our little infra. It uses a low power fanless CPU to stay on as long as possible when running on battery during power outages.
 
 It runs Proxmox and runs only three services:
-- OPNsense (VM)
+- pfSense (VM)
 - Unifi Controller
 - AdGuard
 
@@ -149,11 +149,11 @@ Off-site backups:
 ![[Pasted image 20230205120806.png]]
 
 #### Usage
-Wi-Fi!
+Wi-Fi 6 was an upgrade I was looking forward to and I was not disappointed! One LR AP seems enough for the house. We also have one AP in the shed in repeater/mesh mode as I'm planning to eventually have a smart 240v plug in there to remotely turn on/off the heat.
 
 #### Cost
-- Access Point WiFi 6 Long-Range: $250 in January 2022
-- 3x Access Point AC Lite: 
+- AP 6 Long-Range: $250 in January 2022
+- 3x AP AC Lite: 
 	- 1x $137 in April 2018
 	- 1x $118 in June 2019
 	- 1x $121 in August 2020
@@ -164,22 +164,62 @@ Wi-Fi!
 
 ## Software
 
-- OPNsense
-- Unifi Controller
-- AdGuard
-- Photoprism
-- Deluge, Radarr, Sonarr & Jackett
-- Web Development & Caddy: 
-	- Caddy
-		- Extensions installed
-	- minio
-	- PGAdmin
-	- redis
-	- MariaDB
-	- CodeServer
-	- pm2
-	- nginx
-	- php
+I listed pretty much all the software I host on my home lab, but there are some of them that I'd rather take a few more notes about and share a bit more of my experience with them.
+
+### pfSense
+I started using pfSense a few years ago when I was looking into a good firewall/router solution to use with custom hardware. I tried OPNsene but didn't find any reason to switch. pfSense does everything I need (and much, much more than I could ever need) and has a wide variety of packages. 
+
+I only use one though: WireGuard. I was previously using OpenVPN but prefers WireGuard.
+
+### Unifi Controller
+I don't have much to say here, except that I really like this software. It's easy to use and every upgrade makes it better. Ubiquiti really makes great hardware **and** software. I have two Wi-Fi networks, one for us and one isolated for our guests. I really need to look into having a third for 2.4Ghz smart devices to isolate them from the rest of our network. 
+
+### AdGuard
+A must-have, either self-hosted or using their public DNS. 
+
+### Photoprism
+I've been contemplating the idea of dropping Google Photos for years now. I used to auto-backup to my NAS all my photos and videos when they were still accessible through Drive, until Google removed that feature on July 2019 in a classic Google move. I didn't bother finding an alternative at that time, but it's been on my mind ever since.
+
+The thing is: Google Photos is darn good. The UI is great, it's easy to share pictures, the partner sharing is extremely useful, the automatic memories/creations are fun. Oh, and its AI recognition is good. Like, scary good. 
+
+Photoprism's face recognition is ages away in comparison. But the reason for that is so obvious that it gave me goosebump when I read it from [their doc](https://docs.photoprism.app/user-guide/organize/people/#asian-faces-and-children):
+
+>It is a known issue that children [...] faces cannot be recognized reliably. 
+>
+>**The absence of children in the training data comes from the fact that parents do not usually share such images under a public license (and may not have the right to do so).**
+
+How come then that Google Photos' AI is so good? Your guess is as good as mine, and mine would be that they've been using all their users' pictures to train their AI for years. I'm sure they'd say they never did that and never would. And I'm sure I wouldn't believe them.
+
+Moving away from Google Photos is part of a bigger plan to [move away from using Google](From%20the%20Google%20Ecosystem%20to%20kinda%20self-hosted.md) in general.
+
+So I downloaded/exported all my photos from Google using their export tool named [Google Takeout](https://takeout.google.com/), saved them on my QNAP and pointed Photoprism to that folder (readonly for now), then set up a backup job to Wasabi. The first backup took something like a week or two to complete 😬.
+
+My plan was to then remove from Google Photos all my photos and videos taken prior 2023, and then re-do the process in December 2023, and so on. Meaning manually export all my photos and videos every year. That way I'd still enjoy the easiness of using Google Photos, without keeping almost all my life's memories on their platform.
+
+I haven't done that. I was waiting for my first backup to complete before deleting all my data from Google Photos, but then as it took longer than I expected, I kinda moved on to another project. I'll eventually get back to it, but I wasn't fully satisfied with Photoprism after playing around a bit with it.
+
+So more to come!
+
+Now I'm diverging from the main subject and hopefully this part will become its own page at some point but I'll note it here for now: I was shocked, and not in a good way, at how many pictures I have.
+
+"Back in the days", we'd have 21 shots and we'd have to pay to get them printed, so they'd better be damn good, right? Today, I just tap tap tap tap that virtual shuttle button to make sure I don't miss a good shot. Then I look at the pictures to see if one (or more) are good and move on. I never actually take the time to delete shots that aren't as good and won't be used. They'll eventually just be in the way. But I just left them there. And it was shocking to see how many pictures it ended up being after years of doing that. I'm actually so lazy that I preferred to pay for Google One and get more storage than actually clean up my mess.
+
+### Deluge, Radarr, Sonarr & Jackett
+
+
+### Web Development & Caddy: 
+- Caddy
+	- Extensions installed
+
+### WIP
+- minio
+- PGAdmin
+- redis
+- MariaDB
+- CodeServer
+- pm2
+- nginx
+- php
 - Mailhog
 - Vaultwarden
 - [[Home Assistant - How I use it and for what|Home Assistant]]
