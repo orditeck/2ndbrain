@@ -1,3 +1,8 @@
+---
+title: "Welcome / Bonjour"
+created: 2023-02-01
+modified: 2023-02-05
+---
 ![GitHub last commit](https://img.shields.io/github/last-commit/orditeck/2ndbrain?color=fb3baa&label=Last%20%F0%9F%A7%A0%20update) [![Netlify Status](https://api.netlify.com/api/v1/badges/af0911c1-2523-42a9-b822-dcbdef700484/deploy-status)](https://app.netlify.com/sites/dreamy-smakager-6be3b9/deploys)
 
 Hey there! 👋 Bonjour!
