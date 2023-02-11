@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Home Assistant - How I use it and for what.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Home Assistant - How I use it and for what.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Home Assistant - How I use it and for what.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Home Assistant - How I use it and for what.md"
               }
             }
           }
@@ -174,12 +174,12 @@
   },
   "active": "3951231ca921238a",
   "lastOpenFiles": [
+    "README.md",
     "From the Google Ecosystem to kinda self-hosted.md",
     "Home Assistant - How I use it and for what.md",
+    "Home Lab/3. Software.md",
     "Home Lab/2. Hardware and Usage.md",
     "Home Lab/1. Introduction.md",
-    "README.md",
-    "Home Lab/3. Software.md",
     "Home Lab.md",
     "From.md",
     "assets/Pasted image 20230204175453.png",

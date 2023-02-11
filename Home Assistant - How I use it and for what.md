@@ -1,5 +1,7 @@
-![Relative date](https://img.shields.io/date/1676130550?color=3482cc&label=📅%20Last%20updated)
-
+---
+title: "Home Assistant - How and for what"
+created: 2023-02-05
+---
 I've been using Home Assistant for years now, and while I have many items on my todo list, I thought I could share what I currently use Home Assistant for and what is my setup. I tried several integrations and devices through the years. Some I came to love, some to forget, some to regret and finally, some to heartfully hate (looking at you, Tuya).
 
 ![[hahub.png]]
