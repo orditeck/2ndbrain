@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Lab/3. Software.md",
+                "file": "Home Lab/2. Hardware and Usage.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Lab/3. Software.md",
+                "file": "Home Lab/2. Hardware and Usage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Lab/3. Software.md",
+                "file": "Home Lab/2. Hardware and Usage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Lab/3. Software.md"
+                "file": "Home Lab/2. Hardware and Usage.md"
               }
             }
           }
@@ -183,13 +183,13 @@
   },
   "active": "3951231ca921238a",
   "lastOpenFiles": [
-    "Home Lab/2. Hardware and Usage.md",
     "Home Lab/1. Introduction.md",
-    "Home Lab.md",
+    "Home Lab/2. Hardware and Usage.md",
+    "README.md",
     "Home Lab/3. Software.md",
+    "Home Lab.md",
     "Home Assistant - How I use it and for what.md",
     "From the Google Ecosystem to kinda self-hosted.md",
-    "README.md",
     "From.md",
     "assets/Pasted image 20230204175453.png",
     "assets/Pasted image 20230205103031.png"
