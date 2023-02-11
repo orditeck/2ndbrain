@@ -1,4 +1,4 @@
-![Relative date](https://img.shields.io/date/1675563553?color=3482cc&label=📅%20Last%20updated)
+![Relative date](https://img.shields.io/date/1676130550?color=3482cc&label=📅%20Last%20updated)
 
 I've been using Home Assistant for years now, and while I have many items on my todo list, I thought I could share what I currently use Home Assistant for and what is my setup. I tried several integrations and devices through the years. Some I came to love, some to forget, some to regret and finally, some to heartfully hate (looking at you, Tuya).
 
@@ -16,7 +16,7 @@ But yeah, reading about all the automations, the devices, the protocols, the con
 ## My setup
 There are several ways to install Home Assistant and it can be installed on many different type of devices. From my reading on forums, it looks like lot of people install it on a Raspberry Pi. Pis aren't exactly cheap in Canada and they're not that easy to get. I'm also never fully sure of what my use of Home Assistant would or will be. It's such a powerful piece of software and it has so many cool integrations that I preferred having something a bit too powerful than the contrary.
 
-Off-lease reconditioned PCs, on the other hands, are easily available. So that's the way I went, and it's pretty much always the way I go when I need a new machine for a project or a server. I highly recommend taking look at the [Bauer Systems Group's Price List](https://docs.google.com/spreadsheets/d/1-hKAmQahPcEV_h5mwflWGLWCQtqkKOBDbsakv4ee2u0) if you're in Canada and are looking for a low-cost option for a small server. I love the Tiny/Micro form factor. SSF is a good size too. You can read more about my [[Home Lab]]!
+Off-lease reconditioned PCs, on the other hands, are easily available. So that's the way I went, and it's pretty much always the way I go when I need a new machine for a project or a server. I highly recommend taking look at the [Bauer Systems Group's Price List](https://docs.google.com/spreadsheets/d/1-hKAmQahPcEV_h5mwflWGLWCQtqkKOBDbsakv4ee2u0) if you're in Canada and are looking for a low-cost option for a small server. I love the Tiny/Micro form factor. SSF is a good size too. You can read more about my [Home Lab](1.%20Introduction.md)!
 
 The Home Assistant Operating System (formerly HassOS) can be installed on a lot of hardware, including:
 -   Raspberry Pi
