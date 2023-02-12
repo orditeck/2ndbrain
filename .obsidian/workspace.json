@@ -11,36 +11,8 @@
             "id": "3951231ca921238a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home Lab/1. Introduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "315b96154a45d02b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home Lab/3. Software.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1da9d91d92d42efb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home Lab/2. Hardware and Usage.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -109,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Lab/1. Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Lab/1. Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home Lab/1. Introduction.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -172,17 +140,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3951231ca921238a",
+  "active": "2046c5dfa948622d",
   "lastOpenFiles": [
-    "Home Lab/3. Software.md",
-    "Home Lab/2. Hardware and Usage.md",
-    "Home Lab/1. Introduction.md",
-    "Home Assistant - How I use it and for what.md",
     "README.md",
+    "Home Lab/1. Introduction.md",
+    "index.md",
+    "Home Lab/2. Hardware and Usage.md",
+    "Home Assistant - How I use it and for what.md",
+    "Home Lab/3. Software.md",
     "From the Google Ecosystem to kinda self-hosted.md",
     "Home Lab.md",
     "From.md",
-    "assets/Pasted image 20230204175453.png",
-    "assets/Pasted image 20230205103031.png"
+    "assets/Pasted image 20230204175453.png"
   ]
 }
