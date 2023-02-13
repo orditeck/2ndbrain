@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Improvements to Cheap Publish.md",
+                "file": "Home Lab/1. Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Improvements to Cheap Publish.md",
+                "file": "Home Lab/1. Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Improvements to Cheap Publish.md",
+                "file": "Home Lab/1. Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Improvements to Cheap Publish.md"
+                "file": "Home Lab/1. Introduction.md"
               }
             }
           }
@@ -148,11 +148,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "308f2ea0a4c73fd6",
+  "active": "2046c5dfa948622d",
   "lastOpenFiles": [
+    "Improvements to Cheap Publish.md",
     "From the Google Ecosystem to kinda self-hosted.md",
     "README.md",
-    "Improvements to Cheap Publish.md",
     "Home Lab/3.1. Photoprism.md",
     "Home Lab/4. Home Assistant.md",
     "Home Lab/3.2. Blue Iris.md",
