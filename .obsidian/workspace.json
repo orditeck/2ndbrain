@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Lab/2. Hardware and Usage.md",
+                "file": "Improvements to Cheap Publish.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Lab/2. Hardware and Usage.md",
+                "file": "Improvements to Cheap Publish.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Lab/2. Hardware and Usage.md",
+                "file": "Improvements to Cheap Publish.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Lab/2. Hardware and Usage.md"
+                "file": "Improvements to Cheap Publish.md"
               }
             }
           }
@@ -150,11 +150,11 @@
   },
   "active": "308f2ea0a4c73fd6",
   "lastOpenFiles": [
-    "Home Lab/1. Introduction.md",
-    "Home Lab/2. Hardware and Usage.md",
-    "Home Lab/3. Software.md",
-    "Improvements to Cheap Publish.md",
     "From the Google Ecosystem to kinda self-hosted.md",
+    "Improvements to Cheap Publish.md",
+    "Home Lab/2. Hardware and Usage.md",
+    "Home Lab/1. Introduction.md",
+    "Home Lab/3. Software.md",
     "README.md",
     "Home Lab/3.1. Photoprism.md",
     "Home Lab/4. Home Assistant.md",
