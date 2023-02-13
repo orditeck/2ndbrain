@@ -78,8 +78,8 @@ GRAPH_OPTIONS = """
         }
         """
 
-#[[redirects]]
-#from = "/"
-#to = "/docs/readme/"
-#status = 301
-#force = true
+[[redirects]]
+from = "/"
+to = "/readme/"
+status = 301
+force = true
