@@ -1,4 +1,4 @@
-Have you ever heard, in August 2022, the story of the dad who got ban from his Google account for ‘child porn’ after he sent pics of his toddler’s swollen genitals to his doctor? [^1][^2]
+Have you ever heard, in August 2022, the story of the dad who got ban from his Google account for ‘child porn’ after he sent pics of his toddler’s swollen genitals to his doctor? [^1] [^2]
 
 I have young children. When I read that story, it scared the hell out of me. It could've been me. 
 
