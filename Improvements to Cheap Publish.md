@@ -65,9 +65,12 @@ Note that this is done dynamically in JavaScript because I was lazy, and it only
 - Updated `obsidian-export` to its latest version
 - Allowed `.` in filename, e.g. `1. Start here`, `2. Once Upon A Time`, etc. Useful for the sidebar since it's sorted by name.
 
-## Wish list
+## TODO
+- Fix the graph when URL contains a `#` (current node doesn't seem set)
 - Identify external link
 - Open external link in new window
+
+## Wish list
 - Better support for resized images 
 	- [Obsidian doc](https://help.obsidian.md/How+to/Format+your+notes#Resizing+images)
 	- [Discussion on obsidian-export](https://github.com/zoni/obsidian-export/discussions/59)
