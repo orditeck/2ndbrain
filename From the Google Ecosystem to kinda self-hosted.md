@@ -18,9 +18,11 @@ I couldn't agree more. Yet, they can.
 
 Or let's say for whatever reason, you buy something from Google and get yourself into a situation where you do a chargeback with your credit card company. Google will ban you. For them (and for Sony, Nintendo, etc. who do the same), this means the end of the business relationship. While logical, it's hard to phantom how much Google's leverage over your life can be huge if you let yourself be blindly content by their service and end up using all of them for your digital life.
 
-[^1]: [Google bans dad for ‘child porn’ after he sent pics of toddler’s swollen genitals to doctor](https://nypost.com/2022/08/22/google-bans-dad-for-sending-pics-of-toddlers-swollen-genitals-to-doctor/)
-[^2]: [Google accused of sparking 10-month probe into innocent father for sharing naked photos of ill toddler](https://www.independent.co.uk/tech/google-surveillance-photo-mark-child-porn-b2149861.html)
-[^3]: [Her Child’s Naked Dance Killed Her Google Account. New Appeals Path Restored It](https://www.nytimes.com/2022/12/30/technology/google-appeals-change.html)
+They make awesome product. But the more you use them, the more Google own your data and, eventually, they own ... a part of you.
+
+[^1]: Article: [Google bans dad for ‘child porn’ after he sent pics of toddler’s swollen genitals to doctor](https://nypost.com/2022/08/22/google-bans-dad-for-sending-pics-of-toddlers-swollen-genitals-to-doctor/)
+[^2]: Article: [Google accused of sparking 10-month probe into innocent father for sharing naked photos of ill toddler](https://www.independent.co.uk/tech/google-surveillance-photo-mark-child-porn-b2149861.html)
+[^3]: Article: [Her Child’s Naked Dance Killed Her Google Account. New Appeals Path Restored It](https://www.nytimes.com/2022/12/30/technology/google-appeals-change.html)
 
 ## Email: Proton
 
