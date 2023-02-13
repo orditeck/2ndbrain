@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "7fe29a825eb585d2",
+        "id": "bfff3b32c98669b7",
         "type": "tabs",
         "children": [
           {
-            "id": "3951231ca921238a",
+            "id": "9db7274eccd564cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Home Lab/3. Software.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29a919034930efcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home Lab/3.2. Blue Iris.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3172f861352cf178",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home Lab/3.1. Photoprism.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Home Lab/3.2. Blue Iris.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Home Lab/3.2. Blue Iris.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Home Lab/3.2. Blue Iris.md"
               }
             }
           }
@@ -148,17 +173,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2046c5dfa948622d",
+  "active": "29a919034930efcd",
   "lastOpenFiles": [
-    "Home Assistant - How I use it and for what.md",
-    "From the Google Ecosystem to kinda self-hosted.md",
-    "Home Lab/1. Introduction.md",
-    "README.md",
+    "Home Lab/3.1. Photoprism.md",
     "Home Lab/3. Software.md",
     "Home Lab/2. Hardware and Usage.md",
-    "Home.md",
-    "index.md",
-    "Home Lab.md",
-    "From.md"
+    "Home Lab/1. Introduction.md",
+    "Home Lab/3.2. Blue Iris.md",
+    "Untitled.md",
+    "Home Assistant - How I use it and for what.md",
+    "From the Google Ecosystem to kinda self-hosted.md",
+    "README.md",
+    "Home.md"
   ]
 }
