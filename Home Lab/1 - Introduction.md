@@ -33,4 +33,4 @@ This picture above was taken in 2006 as was one iteration of my first home lab. 
 The PC on the right was running Ubuntu Server and was my first experience with Linux. An incredible love story, much better than any movie one can watch 🤣. It was primarily a public web server to host my small project, like Orkïka, a text-based web-browser medieval game written in PHP.
 
 ## Next:
-- [Hardware and Usage](2.%20Hardware%20and%20Usage.md)
+- [Hardware and Usage](2%20-%20Hardware%20and%20Usage.md)

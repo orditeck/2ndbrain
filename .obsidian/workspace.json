@@ -11,8 +11,12 @@
             "id": "3951231ca921238a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Home Assistant - How I use it and for what.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home Assistant - How I use it and for what.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home Assistant - How I use it and for what.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home Assistant - How I use it and for what.md"
+              }
             }
           }
         ],
@@ -140,17 +148,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2046c5dfa948622d",
+  "active": "3951231ca921238a",
   "lastOpenFiles": [
-    "README.md",
-    "Home Lab/1. Introduction.md",
-    "index.md",
-    "Home Lab/2. Hardware and Usage.md",
-    "Home Assistant - How I use it and for what.md",
-    "Home Lab/3. Software.md",
     "From the Google Ecosystem to kinda self-hosted.md",
+    "Home Assistant - How I use it and for what.md",
+    "Home Lab/1 - Introduction.md",
+    "Home.md",
+    "Home Lab/3 - Software.md",
+    "Home Lab/2 - Hardware and Usage.md",
+    "index.md",
+    "README.md",
     "Home Lab.md",
-    "From.md",
-    "assets/Pasted image 20230204175453.png"
+    "From.md"
   ]
 }
