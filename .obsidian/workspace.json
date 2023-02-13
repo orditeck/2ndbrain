@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Assistant - How I use it and for what.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Assistant - How I use it and for what.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Assistant - How I use it and for what.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Assistant - How I use it and for what.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,16 +148,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3951231ca921238a",
+  "active": "2046c5dfa948622d",
   "lastOpenFiles": [
-    "From the Google Ecosystem to kinda self-hosted.md",
     "Home Assistant - How I use it and for what.md",
-    "Home Lab/1 - Introduction.md",
-    "Home.md",
-    "Home Lab/3 - Software.md",
-    "Home Lab/2 - Hardware and Usage.md",
-    "index.md",
+    "From the Google Ecosystem to kinda self-hosted.md",
+    "Home Lab/1. Introduction.md",
     "README.md",
+    "Home Lab/3. Software.md",
+    "Home Lab/2. Hardware and Usage.md",
+    "Home.md",
+    "index.md",
     "Home Lab.md",
     "From.md"
   ]
