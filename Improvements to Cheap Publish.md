@@ -68,6 +68,6 @@ Note that this is done dynamically in JavaScript because I was lazy, and it only
 ## Wish list
 - Identify external link
 - Open external link in new window
-- Support resized image 
+- Better support for resized images 
 	- [Obsidian doc](https://help.obsidian.md/How+to/Format+your+notes#Resizing+images)
 	- [Discussion on obsidian-export](https://github.com/zoni/obsidian-export/discussions/59)
