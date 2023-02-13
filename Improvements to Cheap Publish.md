@@ -58,7 +58,7 @@ Note that this is done dynamically in JavaScript because I was lazy, and it only
 
 ## A few fixes/changes
 - The sidebar no longer reload the whole page when clicking a link / anchor
-- The graph no longer jump on first hover, it's also prettier with a little wiggling animation on load
+- The graph no longer jumps on the first hover, it's also prettier with a little wiggling animation on load
 - Removed mandatory `/docs` from every notes, now directly served at `/`
 - Removed `frontmatter=never` from `local-run.sh` (why!?)
 - Fixed the URL detection for previews using the host (might not be a solution for all)
