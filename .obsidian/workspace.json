@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b15a0bf9a0e0c27c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Draft - Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Improvements to Cheap Publish.md",
+                "file": "Draft - Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Improvements to Cheap Publish.md",
+                "file": "Draft - Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Improvements to Cheap Publish.md"
+                "file": "Draft - Untitled.md"
               }
             }
           }
@@ -148,17 +161,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "308f2ea0a4c73fd6",
+  "active": "b15a0bf9a0e0c27c",
   "lastOpenFiles": [
-    "From the Google Ecosystem to kinda self-hosted.md",
+    "README.md",
+    "Draft - Untitled.md",
     "Improvements to Cheap Publish.md",
+    "From the Google Ecosystem to kinda self-hosted.md",
     "Home Lab/2. Hardware and Usage.md",
     "Home Lab/1. Introduction.md",
     "Home Lab/3. Software.md",
-    "README.md",
     "Home Lab/3.1. Photoprism.md",
     "Home Lab/4. Home Assistant.md",
-    "Home Lab/3.2. Blue Iris.md",
-    "Home.md"
+    "Home Lab/3.2. Blue Iris.md"
   ]
 }
