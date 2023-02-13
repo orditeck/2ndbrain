@@ -54,7 +54,7 @@ or
 
 ![Engelbart|100](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg) or ![100](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
 
-Note that this is done dynamically in JavaScript because I was lazy, and it only supports the syntax above.
+Note that this is done dynamically in JavaScript because I was lazy, and it only supports the syntax above. 
 
 ## A few fixes/changes
 - The sidebar no longer reload the whole page when clicking a link / anchor
