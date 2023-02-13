@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bfff3b32c98669b7",
+        "id": "67ec1e17d3abda67",
         "type": "tabs",
         "children": [
           {
-            "id": "9db7274eccd564cb",
+            "id": "308f2ea0a4c73fd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Lab/4. Home Assistant.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29a919034930efcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home Lab/3.2. Blue Iris.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3172f861352cf178",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home Lab/3.1. Photoprism.md",
+                "file": "From the Google Ecosystem to kinda self-hosted.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Lab/4. Home Assistant.md",
+                "file": "From the Google Ecosystem to kinda self-hosted.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Lab/4. Home Assistant.md",
+                "file": "From the Google Ecosystem to kinda self-hosted.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Lab/4. Home Assistant.md"
+                "file": "From the Google Ecosystem to kinda self-hosted.md"
               }
             }
           }
@@ -172,12 +148,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2046c5dfa948622d",
+  "active": "308f2ea0a4c73fd6",
   "lastOpenFiles": [
-    "Home Lab/3. Software.md",
+    "Home Lab/3.1. Photoprism.md",
     "Home Lab/4. Home Assistant.md",
     "Home Lab/3.2. Blue Iris.md",
-    "Home Lab/3.1. Photoprism.md",
+    "Home Lab/3. Software.md",
     "Home Lab/2. Hardware and Usage.md",
     "Home Lab/1. Introduction.md",
     "README.md",
