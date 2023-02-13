@@ -18,7 +18,7 @@ None of them are perfect. The official Publish service isn't perfect neither.
 
 I lent on [Yarden-zamir/obsidian-zola-plus](https://github.com/Yarden-zamir/obsidian-zola-plus), which adds a preview pop-up from another fork, giscus comments (which I didn't know was a thing), etc. 
 
-I started using it and quickly noticed a few bugs. Enough to bother me. However, this time, I decided to create [my own fork](https://github.com/orditeck/obsidian-zola-plus) and start there, because why not. I'm now calling it Cheap Publish, 'cause my mom raised me an honest man.
+I started using it and quickly noticed a few bugs. Enough to bother me. However, this time, I decided to create [my own fork](https://github.com/orditeck/cheap-publish) and start there, because why not. I'm now calling it Cheap Publish, 'cause my mom raised me an honest man.
 
 So what did I change?
 
