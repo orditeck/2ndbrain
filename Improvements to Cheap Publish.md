@@ -63,7 +63,7 @@ Note that this is done dynamically in JavaScript because I was lazy, and it only
 - Removed `frontmatter=never` from `local-run.sh` (why!?)
 - Fixed the URL detection for previews using the host (might not be a solution for all)
 - Updated `obsidian-export` to its latest version
-- Allowed `.` in filename, e.g. `1. Start here`, `2. Once Upon A Time`, etc.
+- Allowed `.` in filename, e.g. `1. Start here`, `2. Once Upon A Time`, etc. Useful for the sidebar since it's sorted by name.
 
 ## Wish list
 - Identify external link
