@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Lab/3. Software.md",
+                "file": "Home Lab/4. Home Assistant.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Lab/3. Software.md",
+                "file": "Home Lab/4. Home Assistant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Lab/3. Software.md",
+                "file": "Home Lab/4. Home Assistant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Lab/3. Software.md"
+                "file": "Home Lab/4. Home Assistant.md"
               }
             }
           }
@@ -172,12 +172,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9db7274eccd564cb",
+  "active": "2046c5dfa948622d",
   "lastOpenFiles": [
+    "Home Lab/3. Software.md",
     "Home Lab/4. Home Assistant.md",
     "Home Lab/3.2. Blue Iris.md",
     "Home Lab/3.1. Photoprism.md",
-    "Home Lab/3. Software.md",
     "Home Lab/2. Hardware and Usage.md",
     "Home Lab/1. Introduction.md",
     "README.md",
