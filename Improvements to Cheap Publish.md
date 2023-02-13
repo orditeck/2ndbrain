@@ -53,4 +53,6 @@ To bypass the landing page, set `REDIRECT_HOME` in your `netlify.toml` to the pa
 ## Wish list
 - Identify external link
 - Open external link in new window
-- Support resized image ([Obsidian doc](https://help.obsidian.md/How+to/Format+your+notes#Resizing+images))
+- Support resized image 
+	- [Obsidian doc](https://help.obsidian.md/How+to/Format+your+notes#Resizing+images)
+	- [Discussion on obsidian-export](https://github.com/zoni/obsidian-export/discussions/59)
