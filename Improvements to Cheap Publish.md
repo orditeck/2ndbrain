@@ -51,4 +51,6 @@ To bypass the landing page, set `REDIRECT_HOME` in your `netlify.toml` to the pa
 - Allowed `.` in filename, e.g. `1. Start here`, `2. Once Upon A Time`, etc.
 
 ## Wish list
-I started this page to note my wish list, to make sure I wouldn't lose them. But then I wrote all of this and forgot them. It'll come back 🤣.
+- Identify external link
+- Open external link in new window
+- Support resized image ([Obsidian doc](https://help.obsidian.md/How+to/Format+your+notes#Resizing+images))
