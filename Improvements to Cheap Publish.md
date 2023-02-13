@@ -1,6 +1,6 @@
 I started using Obsidian a few weeks ago and loved it right away. I then contemplated the idea of publishing online. I had a blog in the past but it felt different. Obsidian felt like that was it.
 
-I took a look at the official [Publish](https://obsidian.md/publish) service from Obsidian but as a fellow Home Laber, there is no way I'd pay to host a personal website. I'd rather spend countless hours hacking something.
+I took a look at the official [Publish](https://obsidian.md/publish) service from Obsidian but as a fellow Home Lab-er, there is no way I'd pay to host a personal website. I'd rather spend countless hours hacking something.
 
 I started searching online for an "Obsidian Publish open source alternative" and found quite a few:
 - [MindStone](https://mindstone.tuancao.me/): free open-source alternative solution to Obsidian Publish
