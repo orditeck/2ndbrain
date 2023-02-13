@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Lab/3. Software.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Lab/3.2. Blue Iris.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Lab/3.2. Blue Iris.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Lab/3.2. Blue Iris.md"
+                "file": "README.md"
               }
             }
           }
@@ -173,13 +172,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "29a919034930efcd",
+  "active": "9db7274eccd564cb",
   "lastOpenFiles": [
-    "Home Lab/3.1. Photoprism.md",
     "Home Lab/3. Software.md",
+    "Home Lab/3.2. Blue Iris.md",
+    "Home Lab/3.1. Photoprism.md",
     "Home Lab/2. Hardware and Usage.md",
     "Home Lab/1. Introduction.md",
-    "Home Lab/3.2. Blue Iris.md",
     "Untitled.md",
     "Home Assistant - How I use it and for what.md",
     "From the Google Ecosystem to kinda self-hosted.md",
