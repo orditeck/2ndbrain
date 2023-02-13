@@ -29,7 +29,7 @@ I added the following frontmatter keys:
 - `modified`: when present and `modified != created`, shows both dates, eg: `Posted February 1, 2023, last updated February 5, 2023`
 
 While working in that section, I re-enabled the read time:
-![[Pasted image 20230212223136.png|400]]
+![[Pasted image 20230212223136.png|Test|400]]
 
 ### Extra
 I'm also passing down to `zola/templates/content/page.html` any `extra` frontmatter keys. Useful to customize the template based on that.
@@ -40,6 +40,21 @@ I didn't read much about it, but Zola treats the homepage as a "special page". I
 This is now possible. I'm not 100% sure the landing page still works to be perfectly honest with you, so if you try my fork and keep the landing page, please let me know 😬. 
 
 To bypass the landing page, set `REDIRECT_HOME` in your `netlify.toml` to the path you want to redirect to, e.g. `REDIRECT_HOME = "README"`. It simply sets the main section's `redirect_to` setting to whatever you put in there. Zola doc [here](https://www.getzola.org/documentation/content/section/).
+
+## Resize images
+That one was bothering me a lot since it's supported natively in Obsidian.
+
+Example of this above image resized to 100 pixels wide:
+
+```md
+![Engelbart|100](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
+or
+![100](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
+```
+
+![Engelbart|100](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg) or ![100](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
+
+Note that this is done dynamically in JavaScript because I was lazy, and it only supports the syntax above.
 
 ## A few fixes/changes
 - The sidebar no longer reload the whole page when clicking a link / anchor
