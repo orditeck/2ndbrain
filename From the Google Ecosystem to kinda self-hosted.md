@@ -1,6 +1,6 @@
 ---
 created: 2023-02-08
-updated: 2023-02-12
+modified: 2023-02-12
 ---
 Have you ever heard, in August 2022, the story of the dad who got banned from his Google account for ‘child porn’ after he sent pics of his toddler’s swollen genitals to his doctor? [^1] [^2]
 

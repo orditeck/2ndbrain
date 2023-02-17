@@ -1,6 +1,6 @@
 ---
 created: 2023-02-12
-updated: 2023-02-13
+modified: 2023-02-13
 ---
 I started using Obsidian a few weeks ago and loved it right away. I then contemplated the idea of publishing online. I had a blog in the past but it felt different. Obsidian felt like that was it.
 

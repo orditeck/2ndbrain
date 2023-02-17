@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "From the Google Ecosystem to kinda self-hosted.md",
+                "file": "Home Lab/1. Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "From the Google Ecosystem to kinda self-hosted.md",
+                "file": "Home Lab/1. Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "From the Google Ecosystem to kinda self-hosted.md",
+                "file": "Home Lab/1. Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "From the Google Ecosystem to kinda self-hosted.md"
+                "file": "Home Lab/1. Introduction.md"
               }
             }
           }
@@ -163,15 +163,15 @@
   },
   "active": "b15a0bf9a0e0c27c",
   "lastOpenFiles": [
-    "Improvements to Cheap Publish.md",
     "Home Lab/2. Hardware and Usage.md",
+    "Home Lab/3. Software.md",
+    "Home Lab/3.1. Photoprism.md",
+    "Home Lab/3.2. Blue Iris.md",
+    "Home Lab/4. Home Assistant.md",
     "Draft - A good professional.md",
     "From the Google Ecosystem to kinda self-hosted.md",
-    "Home Lab/3.1. Photoprism.md",
+    "Improvements to Cheap Publish.md",
     "README.md",
-    "Home Lab/1. Introduction.md",
-    "Home Lab/3. Software.md",
-    "Home Lab/4. Home Assistant.md",
-    "Home Lab/3.2. Blue Iris.md"
+    "Home Lab/1. Introduction.md"
   ]
 }
