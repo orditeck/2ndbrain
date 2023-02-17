@@ -40,7 +40,7 @@ I tried NextCloud with Collabora Online Development Edition (CODE) but found it 
 
 If I were to ditch both, I'd probably simply go offline with Libre Office or even Microsoft Office.
 
-#### References & sources
+## References & sources
 
 [^1]: Article: [Google bans dad for ‘child porn’ after he sent pics of toddler’s swollen genitals to doctor](https://nypost.com/2022/08/22/google-bans-dad-for-sending-pics-of-toddlers-swollen-genitals-to-doctor/)
 
