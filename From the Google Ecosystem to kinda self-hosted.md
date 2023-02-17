@@ -1,4 +1,8 @@
-Have you ever heard, in August 2022, the story of the dad who got ban from his Google account for ‘child porn’ after he sent pics of his toddler’s swollen genitals to his doctor? [^1] [^2]
+---
+created: 2023-02-08
+updated: 2023-02-12
+---
+Have you ever heard, in August 2022, the story of the dad who got banned from his Google account for ‘child porn’ after he sent pics of his toddler’s swollen genitals to his doctor? [^1] [^2]
 
 I have young children. When I read that story, it scared the hell out of me. It could've been me. 
 
@@ -16,9 +20,27 @@ In December 2022, a mother also had her Google account banned because of a video
 
 I couldn't agree more. Yet, they can. 
 
-Or let's say for whatever reason, you buy something from Google and get yourself into a situation where you do a charghbeback with your credit card company. Google will ban you. For them (and for Sony, Nintendo, etc. who do the same), this means the end of the business relationship. While logical, it's hard to phantom how much Google's leverage over your life can be huge if you let yourself be blindly content by their service and end up using all of them for your digital life.
+Or let's say for whatever reason, you buy something from Google and get yourself into a situation where you do a chargeback with your credit card company. Google will ban you. For them (and for Sony, Nintendo, etc. who do the same), this means the end of the business relationship. While logical, it's hard to phantom how much Google's leverage over your life can be huge if you let yourself be blindly content by their service and end up using all of them for your digital life.
 
-They make awesome product. But the more you use them, the more Google own your data and, eventually, they own ... a part of you.
+They make awesome product. But the more you use them, the more Google own your data and, eventually, they own … a part of you.
+
+## Email: Proton
+
+Google scans your email. In 2017, they said they stopped scanning them to tailor ads [^4]. Yet, in 2020, they started showing shopping ads in Gmail. They scan you email to facilitate "smart features". I'm not concerned with the content of my email, but I'm concerned with my privacy and my right to not have my email analyzed by a giant corporation. Gmail isn't free. You're just paying it with your data instead of your money. That's much more valuable to Google. It's the same for Microsoft with Outlook or Yahoo with Yahoo Mail.
+
+I started using Gmail in 2005. I was using Hotmail before that. Moving to ProtonMail wasn't a small thing for me. However, I haven't missed Gmail at all.
+
+## Photos & Videos: Photoprism
+
+## Documents: Not decided yet
+
+I don't think I'm ready to move away from Google Docs & Sheets. I don't store any sensitive information on Drive. I have a few spreadsheets to keep track of a few things like our fixed monthly expenses, in what device are the rechargeable batteries, etc. Nothing very sensitive. I also use Notion for similar things that I want in a database format. 
+
+I tried NextCloud with Collabora Online Development Edition (CODE) but found it a bit slow and I just don't think it's worth maintaining up to date these software for my use. 
+
+If I were to ditch both, I'd probably simply go offline with Libre Office or even Microsoft Office.
+
+#### References & sources
 
 [^1]: Article: [Google bans dad for ‘child porn’ after he sent pics of toddler’s swollen genitals to doctor](https://nypost.com/2022/08/22/google-bans-dad-for-sending-pics-of-toddlers-swollen-genitals-to-doctor/)
 
@@ -26,8 +48,4 @@ They make awesome product. But the more you use them, the more Google own your d
 
 [^3]: Article: [Her Child’s Naked Dance Killed Her Google Account. New Appeals Path Restored It](https://www.nytimes.com/2022/12/30/technology/google-appeals-change.html)
 
-## Email: Proton
-
-## Photos & Videos: Photoprism
-
-## Documents: idk yet
+[^4]: Article: [Google will no longer read your emails to tailor ads](https://money.cnn.com/2017/06/23/technology/business/google-ad-scanning-email-stop/index.html) 
