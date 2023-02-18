@@ -4,9 +4,11 @@ modified: 2023-02-18
 ---
 ## Introduction
 
-In the age of digitalization, we have become increasingly reliant on technology to store and manage our personal information. Many of us have turned to tech giants like Google for their user-friendly and efficient services, which have become an integral part of our daily routines. However, recent incidents have shown that such dependence may come at a cost. The risk of losing access to our accounts or having our data compromised is a real and terrifying possibility. This blog post delves into the debate of whether it is worth trusting Google with our data or taking control of our privacy and opting for alternative services. We will explore the pros and cons of staying within the Google ecosystem, as well as alternative solutions for those who value privacy and data control.
+In today's digital age, our personal data has become a highly valued commodity for tech companies. Google, as one of the largest tech giants, relies heavily on collecting and analyzing user data to serve targeted ads, generating a significant portion of their revenue. Our dependence on Google's services, such as email, search, and cloud storage, has made it easy for them to collect and store our data. However, recent incidents have highlighted the potential risks of such dependence, including data breaches, account hijacking and account getting wrongfully banned. In this blog post, we will explore the importance of our data to Google and the potential consequences of trusting them with our personal information. We will also discuss alternative solutions for those who value privacy and data control, including the use of alternative services like ProtonMail and PhotoPrism.
 
 Google has faced criticism for their handling of user data, including incidents where users' private information has been accessed without their consent.
+
+In recent years, there have been several incidents involving Google and the security and privacy of user data. In 2018, it was discovered that a bug in Google+ had exposed the personal data of up to 500,000 users to outside developers ([Wikipedia](https://en.wikipedia.org/wiki/2018_Google_data_breach)). This led to the shut down of Google+ in 2019. Additionally, in 2019, it was reported that a Google contractor had leaked over 1,000 audio recordings from Google Home devices to a Belgian news organization. The recordings contained sensitive and personal information of users.
 
 In August 2022, a father was banned from Google for sending photos of his child's swollen genitals to their doctor. [^1] [^2] While the intention was to seek medical advice, Google's automated systems flagged the photos as child pornography and banned the father from accessing his Google account, including his email and all of his stored data.
 
@@ -35,6 +37,8 @@ Well, I'm glad you asked!
 As you may know, Google's primary source of revenue comes from advertising. In fact, in their latest financial report, they reported that a whopping 81% of their total revenue comes from ads, which amounts to approximately $147 billion dollars in 2020 alone.
 
 To show us ads that are relevant to our interests, Google collects data on our online behavior and creates a profile for each user. This profiling includes data such as our search history, location data, and even the content of our emails.
+
+Some would even argue that Google's business model, which relies on collecting and monetizing user data, creates a potential conflict of interest and puts user privacy at risk.
 
 >If you have enabled Location History and regularly frequent ski resorts, you might later see an ad for ski equipment when watching a video on YouTube
 >
