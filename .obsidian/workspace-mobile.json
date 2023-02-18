@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "06e3495192bdcb9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3d4f9369a5ba6f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b4edf1013618f49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home Lab/2. Hardware and Usage.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4054f70b5550ef1e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bfdba56b5fb3fbe6",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b26f420791c84555",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "603de5538e2a662b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "8795c782547141c6",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "f75e0a2843844f73",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fc8b72c29f3ca2ba",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Home Lab/2. Hardware and Usage.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "72adda5aa661d65d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Home Lab/2. Hardware and Usage.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9eb4e1f58f2eeac1",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Home Lab/2. Hardware and Usage.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "9b4edf1013618f49",
+  "lastOpenFiles": [
+    "Home Lab/1. Introduction.md",
+    "From the Google Ecosystem to kinda self-hosted.md",
+    "Draft - A good professional.md",
+    "Improvements to Cheap Publish.md"
+  ]
+}
