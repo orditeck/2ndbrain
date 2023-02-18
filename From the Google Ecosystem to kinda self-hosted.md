@@ -151,7 +151,7 @@ PhotoPrism can be a good alternative to Google Photos because it is a self-hoste
 
 However, PhotoPrism may not be a good alternative to Google Photos for some users, as it requires more technical knowledge to set up and maintain compared to Google Photos. Additionally, hosting your own photos requires more storage space and may involve additional costs for purchasing hardware or using a cloud storage service. Finally, while PhotoPrism is constantly evolving, it may not have all the features that Google Photos has or may not have the same level of polish in the user interface.
 
-Also, as per their documentation, it is a [known issue](https://docs.photoprism.app/user-guide/organize/people/#asian-faces-and-children) that children faces cannot be recognized reliably since their AI model wasn't trained with pictures that contained many children. The absence of children in the training data comes from the fact that parents do not usually share such images under a public license.
+According to the PhotoPrism [documentation](https://docs.photoprism.app/user-guide/organize/people/#asian-faces-and-children), it's a known issue that their AI model can't reliably recognize children's faces. This is because the training data used to develop the model does not contain many images of children, which is due to the fact that parents do not typically share pictures of their children under a public license.
 
 It makes perfect sense that parents would not want their children's images to be used as part of a training dataset for AI. Many parents are rightly concerned about the privacy and safety of their children online, and may not want their children's images to be used in any way that they cannot control.
 
