@@ -139,12 +139,25 @@ They wanted to make sure you **really** understand:
 ><sub>Source: [Google Privacy & Terms](https://policies.google.com/privacy)</sub>
 
 ProtonMail is an email service that prioritizes privacy. It's a Swiss-based company that offers end-to-end encryption on all emails, meaning only you and the intended recipient can read the message.
-[]()
+
 It is a good alternative if you're concerned about your online privacy and security, particularly with regards to your email communications. By using ProtonMail, you can have greater confidence that your emails are protected from prying eyes and that your personal data is not being used for advertising or other purposes.
 
 Follow their [migration guide](https://proton.me/support/switch-from-gmail-to-proton) to move from Gmail to ProtonMail in a matter of minutes.
 
 ### Photos & Videos: Photoprism
+PhotoPrism is an open-source, self-hosted application for managing and sharing your personal photo collection. It provides features like automatic tagging, image recognition, and search capabilities, as well as allows you to store and access your photos from anywhere.
+
+PhotoPrism can be a good alternative to Google Photos because it is a self-hosted, open-source platform, which means that you have complete control over your photos and you do not need to rely on a third-party service provider to manage them for you. Additionally, PhotoPrism offers features similar to Google Photos such as automatic tagging and image recognition, which can make it easier to organize your collection.
+
+However, PhotoPrism may not be a good alternative to Google Photos for some users, as it requires more technical knowledge to set up and maintain compared to Google Photos. Additionally, hosting your own photos requires more storage space and may involve additional costs for purchasing hardware or using a cloud storage service. Finally, while PhotoPrism is constantly evolving, it may not have all the features that Google Photos has or may not have the same level of polish in the user interface.
+
+Also, as per their documentation, it is a [known issue](https://docs.photoprism.app/user-guide/organize/people/#asian-faces-and-children) that children faces cannot be recognized reliably since their AI model wasn't trained with pictures that contained many children. The absence of children in the training data comes from the fact that parents do not usually share such images under a public license.
+
+It makes perfect sense that parents would not want their children's images to be used as part of a training dataset for AI. Many parents are rightly concerned about the privacy and safety of their children online, and may not want their children's images to be used in any way that they cannot control.
+
+On the other hand, it is reasonable to assume that Google's AI is able to recognize children's faces because they have access to a vast amount of data, including photos and videos uploaded by their users. Google's privacy policy states that they may use the images you upload to their services, including Google Photos, to improve their products and services, including their facial recognition technology.
+
+So, while it is understandable that some users may be uncomfortable with the idea of their photos being used in this way, it is important to understand that companies like Google have access to vast amounts of data, which allows them to train their AI models to recognize a wide range of features, including facial recognition. PhotoPrism, on the other hand, is a self-hosted alternative that does not use cloud services or data processing from third-party companies, which can be a good option for users who are concerned about privacy and control over their data. However, as noted earlier, it may not be as accurate in recognizing certain faces, such as those of children and people of Asian descent, due to limitations in the training dataset.
 
 ### Documents: NextCloud
 
