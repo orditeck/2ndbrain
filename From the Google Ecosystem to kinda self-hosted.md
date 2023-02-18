@@ -159,6 +159,8 @@ So, while it is understandable that some users may be uncomfortable with the ide
 
 ### Documents: NextCloud
 
+TODO
+
 I don't think I'm ready to move away from Google Docs & Sheets. I don't store any sensitive information on Drive. I have a few spreadsheets to keep track of a few things like our fixed monthly expenses, in what device are the rechargeable batteries, etc. Nothing very sensitive. I also use Notion for similar things that I want in a database format. 
 
 I tried NextCloud with Collabora Online Development Edition (CODE) but found it a bit slow and I just don't think it's worth maintaining up to date these software for my use. 
