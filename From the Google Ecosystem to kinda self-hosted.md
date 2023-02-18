@@ -139,8 +139,10 @@ They wanted to make sure you **really** understand:
 ><sub>Source: [Google Privacy & Terms](https://policies.google.com/privacy)</sub>
 
 ProtonMail is an email service that prioritizes privacy. It's a Swiss-based company that offers end-to-end encryption on all emails, meaning only you and the intended recipient can read the message.
-
+[]()
 It is a good alternative if you're concerned about your online privacy and security, particularly with regards to your email communications. By using ProtonMail, you can have greater confidence that your emails are protected from prying eyes and that your personal data is not being used for advertising or other purposes.
+
+Follow their [migration guide](https://proton.me/support/switch-from-gmail-to-proton) to move from Gmail to ProtonMail in a matter of minutes.
 
 ### Photos & Videos: Photoprism
 
