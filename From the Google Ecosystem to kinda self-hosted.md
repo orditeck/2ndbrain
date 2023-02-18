@@ -79,7 +79,7 @@ Not comfortable with having everything on Drive? Do the same! (minus the already
 
 Not comfortable having [all your activities](https://myactivity.google.) recorded? I'm talking about all your searches on Google, every result you click on, every site you visit, every notification you receive, every search on Maps, on YouTube, every voice command you give (with the recording), every news article you open, any game you play, any translation you type, any shopping you do, any flight ticket you search for. Not comfortable having [your every move tracked](https://timeline.google.com/maps/timeline)? **Disable it!**
 
-Want even more control over your privacy and data? Keep reading.
+Want even more control over your privacy and data? Keep reading (and disable all that tracking ffs).
 
 ## Email: Proton
 
