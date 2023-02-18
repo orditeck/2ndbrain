@@ -10,17 +10,11 @@ Google has faced criticism for their handling of user data, including incidents 
 
 In recent years, there have been several incidents involving Google and the security and privacy of user data. In 2018, it was discovered that a bug in Google+ had exposed the personal data of up to 500,000 users to outside developers ([Wikipedia](https://en.wikipedia.org/wiki/2018_Google_data_breach)). This led to the shut down of Google+ in 2019. Additionally, in 2019, it was reported that a Google contractor had leaked over 1,000 audio recordings from Google Home devices to a Belgian news organization. The recordings contained sensitive and personal information of users.
 
-In August 2022, a father was banned from Google for sending photos of his child's swollen genitals to their doctor. [^1] [^2] While the intention was to seek medical advice, Google's automated systems flagged the photos as child pornography and banned the father from accessing his Google account, including his email and all of his stored data.
+In August 2022, a father was banned from Google for sending photos of his child's swollen genitals to their doctor. While the intention was to seek medical advice, Google's automated systems flagged the photos as child pornography and banned the father from accessing his Google account, including his email and all of his stored data.
 
-This case is concerning because it highlights how Google's algorithm and automated system for detecting inappropriate content can be flawed and potentially harm innocent people. As a father of three young children, the idea of being wrongly accused of sharing inappropriate content of my own children and being banned from Google's services is worrying. It raises questions about how Google's system works, who has access to our personal data, and how it is being monitored and analyzed. It also highlights the need for more transparency and accountability when it comes to these automated systems that can have a significant impact on people's lives.
+Losing access to all of your emails, photos, and important documents can be a complete nightmare. What's worse, in the case of the fathers who were wrongly accused, even though the police found that they had committed no crime, **Google still deleted their account**, leaving them without access to all of their important data. This highlights the lack of accountability and transparency in how these automated systems are monitored and analyzed, and raises questions about the potential harm they can cause.
 
-Image loosing all your emails, your pictures of your kids growing up, your important documents, etc. Getting banned from your Google account can be a nightmare. 
-
-The police determined that the fathers had committed no crime, **but the company still deleted his account**.
-
-Anecdotal, you'd say? Not according to [this 10 year old reddit thread](https://www.reddit.com/r/google/comments/1aqydp/googles_automated_ban_system_has_been_suspending/) filled with examples of users wrongfully banned from their Google account. Another example [here](https://www.reddit.com/r/degoogle/comments/zuuf84/my_account_was_disabled_for_a_false_violation_of/). 
-
-In December 2022, a mother also had her Google account banned because of a video where her child was dancing naked[^3]. This case was different and she eventually got her account back, but I primarily wanted to share this part of the article:
+As a father of three young children, the idea of being wrongly accused of sharing inappropriate content of my own children and being banned from Google's services is worrying. 
 
 > Jason Scott, a digital archivist who wrote [a memorably profane](http://ascii.textfiles.com/archives/1717) blog post in 2009 warning people not to trust the cloud, said companies should be legally obligated to give users their data, even when an account was closed for rule violations.
 > 
