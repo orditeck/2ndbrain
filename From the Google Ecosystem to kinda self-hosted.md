@@ -53,7 +53,7 @@ And then you could even use a few more of their products:
 - Google News
 - Google Lens
 
-The ecosystem is the reason to stay. It's very efficient, it's secure, it's polished, it works well. Enable 2FA on your account, pay for Google One to have more storage and call it a day.
+The ecosystem is the reason to stay. It's complete, integrated. efficient, secure, polished, it works well. Enable 2FA on your account with a physical key (e.g. YubiKey), pay for Google One to have more storage and call it a day. Aware or not, you already consented to give all your data to Google and as long as you're now aware and still accept it, good for you, chances are that you're absolutely fine, Google doesn't care about your data, they just care about how much ad revenue they can get from you. Just don't take pictures of your child's genital and Google will always have their red carpet for your data.
 
 ## Reasons not to
 
