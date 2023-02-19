@@ -43,7 +43,6 @@ To show us ads that are relevant to our interests, Google collects data on our o
 Some would even argue that Google's business model, which relies on collecting and monetizing user data, creates a potential conflict of interest and puts user privacy at risk.
 
 >If you have enabled Location History and regularly frequent ski resorts, you might later see an ad for ski equipment when watching a video on YouTube
->
 ><sub>Source: [Google Privacy & Terms](https://policies.google.com/privacy)</sub>
 
 If you want to see just how much information Google has collected about you, you can check out the [My Ad Center](https://myadcenter.google.com/controls) section of your Google account. Here, you'll see a list of categories that Google believes represent your interests, as well as the demographic information they've collected about you. For example, if you're married, your household income, your education, the industry you work in, your employer size, whether you're a homeowner or a renter, without children or if so, what grade, etc.

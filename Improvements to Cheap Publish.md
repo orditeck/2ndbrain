@@ -71,7 +71,7 @@ Note that this is done dynamically in JavaScript because I was lazy, and it only
 - Better `blockquote` style
 
 > "I have not failed. I've just found 10,000 ways that won't work." 
-> <sup>- Thomas Edison</sup>
+> <sub>- Thomas Edison</sub>
 
 ## TODO
 - Fix the graph when URL contains a `#` (current node doesn't seem set)
