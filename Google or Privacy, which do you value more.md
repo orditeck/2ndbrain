@@ -132,7 +132,9 @@ I'm here to help you through this transition, and we can take it one step at a t
 
 ## Move-away Guide
 
-### Email & Calendar: ProtonMail & ProtonCalendar
+### Email & Calendar
+
+#### ProtonMail & ProtonCalendar
 
 Google scans your email. 
 
@@ -152,7 +154,10 @@ It is a good alternative if you're concerned about your online privacy and secur
 
 Follow their [migration guide](https://proton.me/support/switch-from-gmail-to-proton) to move from Gmail to ProtonMail in a matter of minutes.
 
-### Photos & Videos: Photoprism
+### Photos & Videos
+
+#### Photoprism
+
 PhotoPrism is an open-source, self-hosted application for managing and sharing your personal photo collection. It provides features like automatic tagging, image recognition, and search capabilities, as well as allows you to store and access your photos from anywhere.
 
 PhotoPrism can be a good alternative to Google Photos because it is a self-hosted, open-source platform, which means that you have complete control over your photos and you do not need to rely on a third-party service provider to manage them for you. Additionally, PhotoPrism offers features similar to Google Photos such as automatic tagging and image recognition, which can make it easier to organize your collection.
@@ -167,12 +172,16 @@ On the other hand, it is reasonable to assume that Google's AI is able to recogn
 
 So, while it is understandable that some users may be uncomfortable with the idea of their photos being used in this way, it is important to understand that companies like Google have access to vast amounts of data, which allows them to train their AI models to recognize a wide range of features, including facial recognition. PhotoPrism, on the other hand, is a self-hosted alternative that does not use cloud services or data processing from third-party companies, which can be a good option for users who are concerned about privacy and control over their data. However, as noted earlier, it may not be as accurate in recognizing certain faces, such as those of children and people of Asian descent, due to limitations in the training dataset.
 
-### Documents: NextCloud
+### Documents
 
-TODO
+Managing your documents on your local computer means that you store your files on your computer's hard drive and can access them locally. This method of document management requires that you have access to the device where the files are stored and limits your ability to access the files remotely. 
 
-I don't think I'm ready to move away from Google Docs & Sheets. I don't store any sensitive information on Drive. I have a few spreadsheets to keep track of a few things like our fixed monthly expenses, in what device are the rechargeable batteries, etc. Nothing very sensitive. I also use Notion for similar things that I want in a database format. 
+However, with an open source solution like NextCloud, a cloud-based platform for file storage, sharing, and collaboration, you can store and access your files remotely from anywhere. Features such as version control, file history, and sharing permissions make document management easier and more secure. By using NextCloud, you can ensure the privacy and security of your data, avoiding third-party scanning and analysis. Additionally, it offers end-to-end encryption, which means that only you and those you share your files with can access the information, a level of security not offered by Google Drive.
 
-I tried NextCloud with Collabora Online Development Edition (CODE) but found it a bit slow and I just don't think it's worth maintaining up to date these software for my use. 
+#### Non-collaborative: Syncthing
 
-If I were to ditch both, I'd probably simply go offline with Libre Office or even Microsoft Office.
+Libre Office or Microsoft Office.
+
+#### Collaborative: NextCloud
+
+Collabora Online
