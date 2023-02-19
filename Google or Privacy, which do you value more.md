@@ -242,4 +242,20 @@ While a VPN provides privacy and security by encrypting your internet connection
 
 ## Use an encrypted messaging apps
 
+Telegram and Signal are both popular messaging apps that focus on providing users with secure and private communication. While both apps offer end-to-end encryption, which means that only the sender and receiver can access the messages, there are some differences between them.
+
+Signal is an open-source app that is widely considered to be the gold standard for secure messaging. It is endorsed by privacy advocates and has been recommended by organizations like the Electronic Frontier Foundation (EFF). Signal is designed to collect as little data as possible, and it is run by a non-profit organization that is committed to privacy and security.
+
+Telegram, on the other hand, is a cloud-based messaging app that is known for its speed and features. While it also offers end-to-end encryption, its default settings do not enable this feature for all messages, and it collects more user data than Signal. Additionally, Telegram has been criticized for its lack of transparency in how it handles user data and encryption.
+
+In terms of which app is better, it depends on your specific needs and priorities. If you prioritize privacy and security above all else, Signal is likely the better choice. If you are more interested in features and speed, Telegram may be a better option. Ultimately, both apps offer a high level of security and privacy compared to many other messaging apps, and it is up to the user to decide which app is the best fit for them.
+
 ## Use a privacy-focused browser
+
+[Firefox](https://www.mozilla.org/en-CA/firefox/new/) and [Brave](https://brave.com/) share many similarities as privacy-focused browsers that prioritize user privacy and security. They both provide built-in ad and tracker blocking, password managers, and support for private browsing mode. Moreover, they are both open-source and transparent about their code and development process, with a strong commitment to user control and customization for a better browsing experience.
+
+One significant difference is that Firefox is developed by Mozilla, a non-profit organization with a longer history of development and a larger community of developers, which may give users more confidence in its security and privacy features. On the other hand, Brave, a for-profit company, offers an interesting "privacy-respecting ads" feature that uses local machine learning algorithms to serve relevant ads without compromising user data. Additionally, Brave has a [built-in Tor integration](https://support.brave.com/hc/en-us/articles/360018121491-What-is-a-Private-Window-with-Tor-Connectivity-) feature, which allows users to browse the internet anonymously and hide their IP address and location from third parties.
+
+Overall, both browsers offer powerful privacy features, but users may choose one over the other depending on their unique needs and preferences.
+
+Compare them [here](https://www.mozilla.org/en-CA/firefox/browsers/compare/brave/).
