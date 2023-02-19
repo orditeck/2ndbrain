@@ -266,14 +266,15 @@ Compare them [here](https://www.mozilla.org/en-CA/firefox/browsers/compare/brave
 Two-factor authentication is like having two keys to unlock your treasure chest. The first key is your password, which you have to remember, like the secret word to open the chest. The second key is something you have with you, like a special toy that only you have. When you want to open the chest, you need to use both keys at the same time. That way, even if someone finds out your password, they can't open the chest because they don't have the special toy key. Two-factor authentication makes it harder for bad guys to get into your important stuff online.
 
 #### YubiKey
-
 A YubiKey is a physical hardware device that can be used for two-factor authentication (2FA), which adds an extra layer of security to your online accounts. When you use a YubiKey, you plug it into your computer or mobile device and then press a button on the device to authenticate your login. This helps ensure that only you can access your accounts, even if someone else gets hold of your password.
 
 The benefits of using a YubiKey for two-factor authentication include:
 
-1.  Stronger Security: Using a YubiKey significantly reduces the risk of account breaches due to stolen or weak passwords, as well as phishing attacks. This is because an attacker would need both your password and the physical YubiKey device to gain access to your account, making it much harder to hack into your accounts.
+1.  **Stronger Security**: Using a YubiKey significantly reduces the risk of account breaches due to stolen or weak passwords, as well as phishing attacks. This is because an attacker would need both your password and the physical YubiKey device to gain access to your account, making it much harder to hack into your accounts.
     
-2.  Convenience: Using a YubiKey is more convenient than other 2FA methods such as one-time passwords sent via text message or authenticator apps. With a YubiKey, you simply plug it into your computer or mobile device and press a button to authenticate your login, making the login process faster and easier. Additionally, YubiKeys can be used across multiple devices and services, reducing the need for multiple 2FA methods.
+2.  **Convenience**: Using a YubiKey is more convenient than other 2FA methods such as one-time passwords sent via text message or authenticator apps. With a YubiKey, you simply plug it into your computer or mobile device and press a button to authenticate your login, making the login process faster and easier. Additionally, YubiKeys can be used across multiple devices and services, reducing the need for multiple 2FA methods.
     
+
+In addition to USB keys, YubiKey also offers keys with Near Field Communication (NFC) technology. NFC-enabled keys allow for easier authentication by simply tapping the key against a mobile device or other NFC reader. This eliminates the need to physically plug in the key, making the authentication process even more convenient. The NFC-enabled keys are also highly secure, using the same encryption technology as the USB keys. Both types of keys provide strong two-factor authentication, and the choice between them depends on individual preference and device compatibility.
 
 Overall, using a YubiKey for two-factor authentication is a great way to increase your online security while also improving the convenience of your login process.
