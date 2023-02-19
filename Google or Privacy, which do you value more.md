@@ -215,6 +215,7 @@ Here are some helpful resources to assist with exporting your media from Google 
 
 - [PhotoStructure](https://photostructure.com/)
 - [LibrePhotos](https://docs.librephotos.com/)
+- [Google Photos is so 2020—welcome to the world of self-hosted photo management](https://arstechnica.com/gadgets/2021/06/the-big-alternatives-to-google-photos-showdown/4/): An informative blog post about alternatives to Google Photos
 
 #### How to automatically backup your photos & videos from your phone 
 
