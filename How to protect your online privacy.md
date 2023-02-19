@@ -93,3 +93,19 @@ However, it's important to have two YubiKeys as a backup in case you lose one of
 By having two YubiKeys, you can avoid this issue and have a backup plan in case one key is lost or stolen. You can register both keys with your accounts, so if one key is unavailable, you can use the other key to log in to your accounts. Additionally, having a second key can also provide an extra layer of security, as you can use one key as a backup and keep the other key in a secure location such as a safe or a different physical location.
 
 In summary, having two YubiKeys is important for ensuring that you can maintain access to your accounts if one key is lost, stolen, or damaged. It also provides an extra layer of security and peace of mind.
+
+## Consider moving away from the big tech giants
+
+There are several reasons why you might want to consider using alternatives to Google, Microsoft, and Yahoo for the sake of your privacy:
+
+1.  Data collection: Companies like Google and Microsoft have a business model that relies on collecting as much data as possible from their users. This data is often used for advertising and other purposes, but it can also be vulnerable to hacks and data breaches. By using alternative services, you can reduce the amount of data that is collected about you and potentially minimize your risk of being affected by data breaches.
+    
+2.  Monopoly: Google and Microsoft are both dominant players in their respective markets, which can limit competition and lead to less innovation. By using alternative services, you can support smaller companies and contribute to a more diverse and competitive market.
+    
+3.  Personalization: While Google and Microsoft's data collection can lead to personalized services and recommendations, it can also create a filter bubble that limits your exposure to diverse perspectives and information. By using alternative services, you can potentially expand your horizons and discover new things.
+    
+4.  Ethics: Some people may have ethical concerns about the business practices of large tech companies, such as their tax avoidance strategies, their cooperation with government surveillance programs, or their involvement in controversial projects. By using alternative services, you can potentially align your use of technology with your values.
+    
+
+Interesting in reading more? Check the following article: 
+- [[Google or Privacy, which do you value more]]

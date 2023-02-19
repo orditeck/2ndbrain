@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google or Privacy, which do you value more.md",
+                "file": "Home Lab/3.1. Photoprism.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google or Privacy, which do you value more.md",
+                "file": "Home Lab/3.1. Photoprism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google or Privacy, which do you value more.md",
+                "file": "Home Lab/3.1. Photoprism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google or Privacy, which do you value more.md"
+                "file": "Home Lab/3.1. Photoprism.md"
               }
             }
           }
@@ -174,15 +174,15 @@
   },
   "active": "308f2ea0a4c73fd6",
   "lastOpenFiles": [
+    "Home Lab/3.2. Blue Iris.md",
+    "Home Lab/4. Home Assistant.md",
     "How to protect your online privacy.md",
     "Google or Privacy, which do you value more.md",
     "Home Lab/1. Introduction.md",
     "Home Lab/3.1. Photoprism.md",
-    "Home Lab/3.2. Blue Iris.md",
     "Improvements to Cheap Publish.md",
     "Home Lab/2. Hardware and Usage.md",
     "Home Lab/3. Software.md",
-    "Home Lab/4. Home Assistant.md",
     "Draft - A good professional.md"
   ]
 }
