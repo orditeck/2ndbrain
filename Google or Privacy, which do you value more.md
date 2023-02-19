@@ -3,6 +3,10 @@ title: "Google or Privacy: which do you value more?"
 created: 2023-02-08
 modified: 2023-02-18
 ---
+## TLDR
+
+The article discusses the pros and cons of using Google services in terms of privacy and suggests alternatives that prioritize privacy. The author raises concerns about Google's data collection and surveillance practices and argues that using Google's services may compromise users' privacy. They suggest alternatives like DuckDuckGo for search, ProtonMail for email, NextCloud for cloud storage and collaboration, and Signal for messaging. The author emphasizes that protecting privacy should be a priority and that there are alternatives available that prioritize it without sacrificing convenience.
+
 ## Introduction
 
 In today's digital age, our personal data has become a highly valued commodity for tech companies. Google, as one of the largest tech giants, relies heavily on collecting and analyzing user data to serve targeted ads, generating a significant portion of their revenue. Our dependence on Google's services, such as email, search, and cloud storage, has made it easy for them to collect and store our data. However, recent incidents have highlighted the potential risks of such dependence, including data breaches, account hijacking and account getting wrongfully banned. 
