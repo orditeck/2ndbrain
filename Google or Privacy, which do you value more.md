@@ -153,24 +153,6 @@ It is a good alternative if you're concerned about your online privacy and secur
 
 Follow their [migration guide](https://proton.me/support/switch-from-gmail-to-proton) to move from Gmail to ProtonMail in a matter of minutes.
 
-### Photos & Videos
-
-#### Photoprism
-
-##### What is Photoprism
-
-PhotoPrism is an open-source, self-hosted application for managing and sharing your personal photo collection. It provides features like automatic tagging, image recognition, and search capabilities, as well as allows you to store and access your photos from anywhere.
-
-It requires more technical knowledge to set up and maintain compared to Google Photos. Hosting your own photos requires more storage space and may involve additional costs for purchasing hardware or using a cloud storage service. PhotoPrism is constantly evolving and may not have all the features that Google Photos has or may not have the same level of polish in the user interface.
-
-Additionally, its Face Recognition feature is not as good as Google Photo. According to its [documentation](https://docs.photoprism.app/user-guide/organize/people/#asian-faces-and-children), it is a known issue that their AI model can't reliably recognize children's faces. This is because the training data used to develop the model does not contain many images of children, which is due to the fact that parents do not typically share pictures of their children under a public license.
-
-It makes perfect sense that parents would not want their children's images to be used as part of a training dataset for AI. Many parents are rightly concerned about the privacy and safety of their children online, and may not want their children's images to be used in any way that they cannot control.
-
-On the other hand, it is reasonable to assume that Google's AI is able to recognize children's faces because they have access to a vast amount of data, including photos and videos uploaded by their users. Google's privacy policy states that they may use the images you upload to their services, including Google Photos, to improve their products and services, including their facial recognition technology.
-
-So, while it is understandable that some users may be uncomfortable with the idea of their photos being used in this way, it is important to understand that companies like Google have access to vast amounts of data, which allows them to train their AI models to recognize a wide range of features, including facial recognition. PhotoPrism, on the other hand, is a self-hosted alternative that does not use cloud services or data processing from third-party companies, which can be a good option for users who are concerned about privacy and control over their data. However, as noted earlier, it may not be as accurate in recognizing certain faces, such as those of children and people of Asian descent, due to limitations in the training dataset.
-
 ### Documents
 
 Managing your documents on your local computer means that you store your files on your computer's hard drive and can access them locally. This method of document management requires that you have access to the device where the files are stored and limits your ability to access the files remotely. 
@@ -192,6 +174,54 @@ Syncthing does not include an office suite so you'll need an offline solution li
 #### Collaborative: NextCloud
 
 Collabora Online
+
+### Photos & Videos
+
+#### Photoprism
+
+##### What is Photoprism
+
+PhotoPrism is an open-source, self-hosted application for managing and sharing your personal photo collection. It provides features like automatic tagging, image recognition, and search capabilities, as well as allows you to store and access your photos from anywhere.
+
+It requires more technical knowledge to set up and maintain compared to Google Photos. Hosting your own photos requires more storage space and may involve additional costs for purchasing hardware or using a cloud storage service. PhotoPrism is constantly evolving and may not have all the features that Google Photos has or may not have the same level of polish in the user interface.
+
+Additionally, its Face Recognition feature is not as good as Google Photo. According to their [documentation](https://docs.photoprism.app/user-guide/organize/people/#asian-faces-and-children), it is a known issue that their AI model can't reliably recognize children's faces. This is because the training data used to develop the model does not contain many images of children, which is due to the fact that parents do not typically share pictures of their children under a public license.
+
+It makes perfect sense that parents would not want their children's images to be used as part of a training dataset for AI. Many parents are rightly concerned about the privacy and safety of their children online, and may not want their children's images to be used in any way that they cannot control.
+
+On the other hand, it is reasonable to assume that Google's AI is able to recognize children's faces because they have access to a vast amount of data, including photos and videos uploaded by their users. Google's privacy policy states that they may use the images you upload to their services, including Google Photos, to improve their products and services, including their facial recognition technology.
+
+So, while it is understandable that some users may be uncomfortable with the idea of their photos being used in this way, it is important to understand that companies like Google have access to vast amounts of data, which allows them to train their AI models to recognize a wide range of features, including facial recognition. PhotoPrism, on the other hand, is a self-hosted alternative that does not use cloud services or data processing from third-party companies, which can be a good option for users who are concerned about privacy and control over their data. However, as noted earlier, it may not be as accurate in recognizing certain faces, such as those of children and people of Asian descent, due to limitations in the training dataset.
+
+##### How to move from Google Photos to PhotoPrism
+
+To dive deeper, visit Photoprism's [Getting started](https://docs.photoprism.app/getting-started/) documentation.
+
+Here are some helpful resources to assist with exporting your media from Google Photos:
+- [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper): A script that consolidates your Google Takeout archive into a single folder organized chronologically.
+- [gilesknap/gphotos-sync](https://github.com/gilesknap/gphotos-sync): A tool that uses the Google Photos Library API to back up your Google Photos and Albums.
+
+#### How to automatically backup your photos & videos from your phone 
+
+In a previous section of this post, we discussed [[Google or Privacy, which do you value more#Non-collaborative: Syncthing|how Syncthing can be used to sync data between different devices]]. Let's now imagine that you have Photoprism installed on your server or computer, and you've already exported all your photos and videos from Google Photos to your Photoprism installation. You're also making regular encrypted backups of your library and upload them to the cloud.
+
+So how can you automatically backup new photos from your phone directly to Photoprism? The answer is to use Syncthing to sync the directory where your phone's camera photos and videos are saved, which is usually named `DCIM` or `Pictures`.
+
+Although this method requires some technical know-how, it's a set-and-forget solution that you won't have to worry about once it's set up.
+
+Here are what the steps to use Syncthing to sync your photos to Photoprism on your Android phone should look like:
+
+1.  **Install Syncthing on your phone**: Start by installing the Syncthing app on your [Android](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid) device. It'll automatically have a "Camera" folder created for you, ready to securely share.
+    
+2.  **Share the sync folder**: Now that you have your Camera folder ready on your phone, you need to share it with the Photoprism instance. Open the Syncthing web interface on your computer and click on the "Add Remote Device" button. Follow the prompts to set up the device ID of your phone.
+    
+3.  **Sync the photos**: Once you have added your phone as a remote device, the "Camera" folder from your phone will show up in the Syncthing interface on your computer. Click on it and set the folder path to the location of your Photoprism library. You can now sync your photos by adding them to the "Camera" folder on your phone.
+    
+
+That's it! Syncthing will automatically sync your photos from your phone to Photoprism whenever a new photo is added to the "Camera" folder on your phone.
+
+Useful links:
+- [PhotoPrism User Guide: Indexing Your Originals](https://docs.photoprism.app/user-guide/library/originals/)
 
 ## Other articles that might interest you
 
