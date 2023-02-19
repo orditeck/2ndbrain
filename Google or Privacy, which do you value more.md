@@ -232,8 +232,7 @@ A VPN is like that secret tent blanket, but for your internet connection. When y
 #### Why use a VPN
 In 2011, during the Arab Spring protests in Egypt, the government shut down the internet in an attempt to quell the protests. This left citizens unable to communicate with each other or access information from outside the country. However, some citizens were able to use VPNs to bypass the government's censorship and access the internet.
 
-VPNs allowed citizens to connect to servers outside of Egypt, which in turn gave them access to the internet and the ability to communicate with people outside of the country. This was critical in spreading information about the protests and coordinating actions. 
-<sub>[Source](https://www.theverge.com/2011/1/31/1964654/how-egypt-turned-off-the-internet)</sub>
+VPNs allowed citizens to connect to servers outside of Egypt, which in turn gave them access to the internet and the ability to communicate with people outside of the country. This was critical in spreading information about the protests and coordinating actions <sup>([source](https://www.theverge.com/2011/1/31/1964654/how-egypt-turned-off-the-internet))</sub>.
 
 Using a VPN can help protect your online privacy by encrypting your internet connection and masking your IP address, making it more difficult for third parties to track your online activity and identify your location. It can also help bypass internet censorship and geo-restrictions.
 
