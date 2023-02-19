@@ -68,6 +68,10 @@ Note that this is done dynamically in JavaScript because I was lazy, and it only
 - Fixed the URL detection for previews using the host (might not be a solution for all)
 - Updated `obsidian-export` to its latest version
 - Allowed `.` in filename, e.g. `1. Start here`, `2. Once Upon A Time`, etc. Useful for the sidebar since it's sorted by name.
+- Better `blockquote` style
+
+> "I have not failed. I've just found 10,000 ways that won't work." 
+> <sup>- Thomas Edison</sup>
 
 ## TODO
 - Fix the graph when URL contains a `#` (current node doesn't seem set)
