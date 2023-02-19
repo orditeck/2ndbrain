@@ -30,9 +30,7 @@ I couldn't agree more.
 
 These stories demonstrate the potential consequences of relying too heavily on a single company for your data storage and online services. Being banned from your Google account can mean losing access to critical data and services, as well as facing accusations of wrongdoing that can have long-lasting and traumatic effects. It is important to consider these risks when deciding where to store your data and which online services to use.
 
-## What does Google use my data for?
-
-Well, I'm glad you asked!
+## The Trade-Off: Google vs. Privacy
 
 As you may know, Google's primary source of revenue comes from advertising. In fact, in their latest financial report, they reported that a whopping 81% of their total revenue comes from ads, which amounts to approximately $147 billion dollars in 2020 alone.
 
@@ -62,7 +60,7 @@ Take a minute to explore it by yourself:
 	- E.g.: 40,000 photos, 800 apps, 10 followed news source, 400+ files, 118 shared with you, 54,000 conversations in Gmail, 3 calendars, 2 payment profiles, 2 Android backups, 58 books in your library, 397 bookmarks in Chrome, 946 passwords saved, 219 contacts, 102 notes in Keep, 6 completed tasks, … And that's just the TLDR / summarize view. Go in details. Go on!
 - [My Google Activity](https://myactivity.google.com): My Activity is a central place to view and manage activity such as searches you've done, websites you've visited, and videos you've watched.
 
-## To stay or to move away
+### To stay or to move away
 
 Now, if you've made it that far in this page, you may be wondering what your options are. 
 
@@ -74,7 +72,7 @@ However, those who value convenience, integration, and access to high-quality pr
 
 Let's explore a bit of both sides.
 
-## 10 reasons to move away from Google
+### 10 reasons to move away from Google
 
 1.  Google tracks and collects a vast amount of data about its users, including their search history, location data, and even voice commands. This data can be used to target you with personalized ads and may be vulnerable to hacks or breaches.
     
@@ -96,7 +94,7 @@ Let's explore a bit of both sides.
     
 10.  By using alternative services, you can take more control over your data and reduce your reliance on a single company for all of your online needs. This can help to protect your privacy and reduce the risk of data breaches or other privacy violations.
 
-## 10 reasons to stay within the Google ecosystem
+### 10 reasons to stay within the Google ecosystem
 
 1.  Integration: One of the main benefits of staying within the Google ecosystem is that all of their products and services are seamlessly integrated, making it easy to move between apps and services without losing data or functionality.
     
@@ -118,7 +116,7 @@ Let's explore a bit of both sides.
     
 10.  Innovation: Google is constantly innovating and releasing new products and services, which may provide new opportunities for you to improve your productivity, creativity, or personal life.
 
-## Explore moving away
+## Alternatives to Google Services
 
 Moving away from Google can feel like a daunting task, but I'm glad to see that you're ready to take the first step. Let's start with something manageable and not too overwhelming.
 
@@ -129,8 +127,6 @@ To keep your data secure, we should encrypt it before uploading it to a remote s
 I also understand the importance of having quick and easy access to your data. To address this, we will also explore online solutions like NextCloud, which is a secure and private cloud storage alternative that you can run on your own server or rent from a hosting provider. NextCloud will allow you to access your files and data from anywhere, at any time, just like Google Drive.
 
 I'm here to help you through this transition, and we can take it one step at a time. Let's start with the easy ones and then move forward as you become more comfortable. Don't hesitate to reach out in the comment section if you have any questions.
-
-## Move-away Guide
 
 ### Email & Calendar
 
@@ -193,3 +189,5 @@ Syncthing does not include an office suite so you'll need an offline solution li
 #### Collaborative: NextCloud
 
 Collabora Online
+
+## How to protect your online privacy
