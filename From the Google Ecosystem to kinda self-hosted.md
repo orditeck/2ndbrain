@@ -52,6 +52,9 @@ Take a minute to explore it by yourself:
 	- E.g.: 40,000 photos, 800 apps, 10 followed news source, 400+ files, 118 shared with you, 54,000 conversations in Gmail, 3 calendars, 2 payment profiles, 2 Android backups, 58 books in your library, 397 bookmarks in Chrome, 946 passwords saved, 219 contacts, 102 notes in Keep, 6 completed tasks, … And that's just the TLDR / summarize view. Go in details. Go on!
 - [My Google Activity](https://myactivity.google.com): My Activity is a central place to view and manage activity such as searches you've done, websites you've visited, and videos you've watched.
 
+Reading suggestion with nice visuals: 
+- [Infographic: How Much Does Google Know About You?](https://medium.com/edtech-trends/infographic-how-much-does-google-know-about-you-d5ee5bd6d01d)
+
 ## To stay or to move away
 
 Now, if you've made it that far in this page, you may be wondering what your options are. 
