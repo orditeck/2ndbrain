@@ -4,9 +4,12 @@ modified: 2023-02-18
 ---
 ## Introduction
 
-In today's digital age, our personal data has become a highly valued commodity for tech companies. Google, as one of the largest tech giants, relies heavily on collecting and analyzing user data to serve targeted ads, generating a significant portion of their revenue. Our dependence on Google's services, such as email, search, and cloud storage, has made it easy for them to collect and store our data. However, recent incidents have highlighted the potential risks of such dependence, including data breaches, account hijacking and account getting wrongfully banned. In this blog post, we will explore the importance of our data to Google and the potential consequences of trusting them with our personal information. We will also discuss alternative solutions for those who value privacy and data control, including the use of alternative services like ProtonMail and PhotoPrism.
+In today's digital age, our personal data has become a highly valued commodity for tech companies. Google, as one of the largest tech giants, relies heavily on collecting and analyzing user data to serve targeted ads, generating a significant portion of their revenue. Our dependence on Google's services, such as email, search, and cloud storage, has made it easy for them to collect and store our data. However, recent incidents have highlighted the potential risks of such dependence, including data breaches, account hijacking and account getting wrongfully banned. 
 
-![[Pasted image 20230218194025.png]]
+In this blog post, we will explore the importance of our data to Google and the potential consequences of trusting them with our personal information. We will also discuss alternative solutions for those who value privacy and data control, including the use of alternative services like ProtonMail, PhotoPrism and NextCloud.
+
+![[Pasted image 20230218194929.png]]
+<sup>Elliot in Mr. Robot, a cybersecurity engineer and hacker with social anxiety disorder, clinical depression and dissociative identity disorder.</sub>
 
 Google has faced criticism for their handling of user data, including incidents where users' private information has been accessed without their consent.
 
