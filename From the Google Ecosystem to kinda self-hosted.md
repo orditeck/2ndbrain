@@ -9,7 +9,7 @@ In today's digital age, our personal data has become a highly valued commodity f
 In this blog post, we will explore the importance of our data to Google and the potential consequences of trusting them with our personal information. We will also discuss alternative solutions for those who value privacy and data control, including the use of alternative services like ProtonMail, PhotoPrism and NextCloud.
 
 ![[Pasted image 20230218194929.png]]
-<sup>Elliot in Mr. Robot, a cybersecurity engineer and hacker with social anxiety disorder, clinical depression and dissociative identity disorder.</sub>
+<sub>Elliot in Mr. Robot, a cybersecurity engineer and hacker with social anxiety disorder, clinical depression and dissociative identity disorder.</sub>
 
 Google has faced criticism for their handling of user data, including incidents where users' private information has been accessed without their consent.
 
