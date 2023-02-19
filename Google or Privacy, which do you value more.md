@@ -180,7 +180,15 @@ However, with an open source solution like NextCloud, a cloud-based platform for
 
 #### Non-collaborative: Syncthing
 
-Libre Office or Microsoft Office.
+[Syncthing](https://syncthing.net/) is a free, open-source, peer-to-peer file synchronization tool that allows you to keep your files synchronized across multiple devices. It is a decentralized and secure alternative to cloud-based file synchronization services, such as Google Drive and Dropbox, which store your data on remote servers.
+
+With Syncthing, you can sync your files between your devices without having to rely on a third-party service or trust them with your data. This can be particularly useful if you want to keep your files private and secure, as well as avoid potential privacy violations by big tech companies.
+
+One of the advantages of Syncthing is that it allows you to sync your files across different operating systems, such as Windows, macOS, Linux and Android. This means that you can access your files from any of your devices, regardless of the platform you're using. Additionally, Syncthing provides advanced features, such as selective sync, which allows you to choose which folders to sync between devices, and versioning, which keeps track of changes made to your files and allows you to restore previous versions.
+
+Overall, Syncthing can be a great tool for managing your files privately and securely while still being able to access them easily from your devices. It is easy to set up and use, and provides a great alternative to cloud-based file synchronization services.
+
+Syncthing does not include an office suite so you'll need an offline solution like [Libre Office](https://www.libreoffice.org/) or Microsoft Office.
 
 #### Collaborative: NextCloud
 
