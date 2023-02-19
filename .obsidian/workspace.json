@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to protect your online privacy.md",
+                "file": "Google or Privacy, which do you value more.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to protect your online privacy.md",
+                "file": "Google or Privacy, which do you value more.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to protect your online privacy.md"
+                "file": "Google or Privacy, which do you value more.md"
               }
             }
           }
@@ -173,10 +172,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7045387ee6bffbc",
+  "active": "308f2ea0a4c73fd6",
   "lastOpenFiles": [
-    "Google or Privacy, which do you value more.md",
     "How to protect your online privacy.md",
+    "Google or Privacy, which do you value more.md",
     "Home Lab/1. Introduction.md",
     "Home Lab/3.1. Photoprism.md",
     "Home Lab/3.2. Blue Iris.md",

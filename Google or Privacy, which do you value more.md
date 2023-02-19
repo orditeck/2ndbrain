@@ -190,5 +190,7 @@ Syncthing does not include an office suite so you'll need an offline solution li
 
 Collabora Online
 
-## How to protect your online privacy
+## Other articles that might interest you
+
+- [[How to protect your online privacy]]
 
