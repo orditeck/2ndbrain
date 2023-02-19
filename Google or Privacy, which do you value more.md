@@ -143,9 +143,13 @@ They wanted to make sure you **really** understand:
 >We also collect the content you create, upload, or receive from others when using our services. This includes things like email you write and receive, photos and videos you save, docs and spreadsheets you create, and comments you make on YouTube videos.
 ><sub>Source: [Google Privacy & Terms](https://policies.google.com/privacy)</sub>
 
+##### What is ProtonMail 
+
 ProtonMail is an email service that prioritizes privacy. It's a Swiss-based company that offers end-to-end encryption on all emails, meaning only you and the intended recipient can read the message.
 
 It is a good alternative if you're concerned about your online privacy and security, particularly with regards to your email communications. By using ProtonMail, you can have greater confidence that your emails are protected from prying eyes and that your personal data is not being used for advertising or other purposes.
+
+##### How to move from Gmail to ProtonMail
 
 Follow their [migration guide](https://proton.me/support/switch-from-gmail-to-proton) to move from Gmail to ProtonMail in a matter of minutes.
 
@@ -153,13 +157,13 @@ Follow their [migration guide](https://proton.me/support/switch-from-gmail-to-pr
 
 #### Photoprism
 
+##### What is Photoprism
+
 PhotoPrism is an open-source, self-hosted application for managing and sharing your personal photo collection. It provides features like automatic tagging, image recognition, and search capabilities, as well as allows you to store and access your photos from anywhere.
 
-PhotoPrism can be a good alternative to Google Photos because it is a self-hosted, open-source platform, which means that you have complete control over your photos and you do not need to rely on a third-party service provider to manage them for you. Additionally, PhotoPrism offers features similar to Google Photos such as automatic tagging and image recognition, which can make it easier to organize your collection.
+It requires more technical knowledge to set up and maintain compared to Google Photos. Hosting your own photos requires more storage space and may involve additional costs for purchasing hardware or using a cloud storage service. PhotoPrism is constantly evolving and may not have all the features that Google Photos has or may not have the same level of polish in the user interface.
 
-However, PhotoPrism may not be a good alternative to Google Photos for some users, as it requires more technical knowledge to set up and maintain compared to Google Photos. Additionally, hosting your own photos requires more storage space and may involve additional costs for purchasing hardware or using a cloud storage service. Finally, while PhotoPrism is constantly evolving, it may not have all the features that Google Photos has or may not have the same level of polish in the user interface.
-
-According to the PhotoPrism [documentation](https://docs.photoprism.app/user-guide/organize/people/#asian-faces-and-children), it's a known issue that their AI model can't reliably recognize children's faces. This is because the training data used to develop the model does not contain many images of children, which is due to the fact that parents do not typically share pictures of their children under a public license.
+Additionally, its Face Recognition feature is not as good as Google Photo. According to its [documentation](https://docs.photoprism.app/user-guide/organize/people/#asian-faces-and-children), it is a known issue that their AI model can't reliably recognize children's faces. This is because the training data used to develop the model does not contain many images of children, which is due to the fact that parents do not typically share pictures of their children under a public license.
 
 It makes perfect sense that parents would not want their children's images to be used as part of a training dataset for AI. Many parents are rightly concerned about the privacy and safety of their children online, and may not want their children's images to be used in any way that they cannot control.
 
