@@ -36,7 +36,7 @@ As you may know, Google's primary source of revenue comes from advertising. In f
 
 To show us ads that are relevant to our interests, Google collects data on our online behavior and creates a profile for each user. This profiling includes data such as our search history, location data, and even the content of our emails.
 
-<sup>Disclamer: all the infographics used below were made by Alice Bonasio and taken from their article [How Much Does Google Know About You?](https://medium.com/edtech-trends/infographic-how-much-does-google-know-about-you-d5ee5bd6d01d) </sup>
+<small>Disclamer: all the infographics used below were made by Alice Bonasio and taken from their article [How Much Does Google Know About You?](https://medium.com/edtech-trends/infographic-how-much-does-google-know-about-you-d5ee5bd6d01d) </small>
 
 ![[Pasted image 20230218191013.png]]
 
