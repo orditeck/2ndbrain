@@ -33,7 +33,7 @@ I added the following frontmatter keys:
 - `modified`: when present and `modified != created`, shows both dates, eg: `Posted February 1, 2023, last updated February 5, 2023`
 
 While working in that section, I re-enabled the read time:
-![[Pasted image 20230212223136.png|Test|400]]
+> ![[Pasted image 20230212223136.png|Test|400]]
 
 ### Extra
 I'm also passing down to `zola/templates/content/page.html` any `extra` frontmatter keys. Useful to customize the template based on that.
