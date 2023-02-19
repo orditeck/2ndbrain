@@ -32,6 +32,10 @@ As you may know, Google's primary source of revenue comes from advertising. In f
 
 To show us ads that are relevant to our interests, Google collects data on our online behavior and creates a profile for each user. This profiling includes data such as our search history, location data, and even the content of our emails.
 
+<sup>Disclamer: all the infographics used below were made by Alice Bonasio and taken from their article [How Much Does Google Know About You?](https://medium.com/edtech-trends/infographic-how-much-does-google-know-about-you-d5ee5bd6d01d) </sup>
+
+![[Pasted image 20230218191013.png]]
+
 Some would even argue that Google's business model, which relies on collecting and monetizing user data, creates a potential conflict of interest and puts user privacy at risk.
 
 >If you have enabled Location History and regularly frequent ski resorts, you might later see an ad for ski equipment when watching a video on YouTube
@@ -51,9 +55,6 @@ Take a minute to explore it by yourself:
 - [Google Dashboard](https://myaccount.google.com/dashboard): See a summary of the services you use and the data saved in your Google Account
 	- E.g.: 40,000 photos, 800 apps, 10 followed news source, 400+ files, 118 shared with you, 54,000 conversations in Gmail, 3 calendars, 2 payment profiles, 2 Android backups, 58 books in your library, 397 bookmarks in Chrome, 946 passwords saved, 219 contacts, 102 notes in Keep, 6 completed tasks, … And that's just the TLDR / summarize view. Go in details. Go on!
 - [My Google Activity](https://myactivity.google.com): My Activity is a central place to view and manage activity such as searches you've done, websites you've visited, and videos you've watched.
-
-Reading suggestion with nice visuals: 
-- [Infographic: How Much Does Google Know About You?](https://medium.com/edtech-trends/infographic-how-much-does-google-know-about-you-d5ee5bd6d01d)
 
 ## To stay or to move away
 
