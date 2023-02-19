@@ -205,7 +205,7 @@ Collabora Online
 9.  Consider using a virtual private network (VPN) for added security.
 10.  Always log out of accounts when using public computers.
 
-### Block Ads & Tracking
+### Block Ads, Tracking & Phishing
 
 AdGuard is an ad-blocking and privacy protection tool that can help you enhance your online privacy. Here are some ways AdGuard can help:
 
@@ -222,9 +222,7 @@ AdGuard is an ad-blocking and privacy protection tool that can help you enhance 
 
 By using AdGuard, you can enjoy a faster and more secure browsing experience, with less ads and fewer online threats.
 
-A more tech-savvy way would involve using tools and techniques such as VPNs (virtual private networks), encrypted messaging apps, secure email services, ad blockers, privacy-focused browsers, and password managers. Additionally, using open-source software and avoiding proprietary services can help to reduce the amount of data that is collected and shared about you. It is also important to stay informed about the latest privacy threats and best practices, and to regularly review and update your online privacy settings.
-
-### Use a VPN
+### Use a secret tunnel to communicate with the Internet 
 
 #### What is a VPN?
 Imagine you're in a secret club, and you want to talk to your friend about your secret club stuff, but you don't want anyone else to hear you. So, you and your friend put a blanket over your heads to make a secret tent where no one can hear you.
@@ -239,4 +237,9 @@ VPNs allowed citizens to connect to servers outside of Egypt, which in turn gave
 
 Using a VPN can help protect your online privacy by encrypting your internet connection and masking your IP address, making it more difficult for third parties to track your online activity and identify your location. It can also help bypass internet censorship and geo-restrictions.
 
+#### VPN + AdGuard?
 While a VPN provides privacy and security by encrypting your internet connection, AdGuard can provide additional benefits by blocking ads, trackers, and malware at the network level, preventing them from reaching your device in the first place. AdGuard can also help speed up your browsing experience by reducing the amount of data being downloaded and improving page load times. By using both a VPN and AdGuard together, you can enhance your online privacy and security while also improving your browsing experience.
+
+## Use an encrypted messaging apps
+
+## Use a privacy-focused browser
