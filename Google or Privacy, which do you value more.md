@@ -240,7 +240,7 @@ Using a VPN can help protect your online privacy by encrypting your internet con
 #### VPN + AdGuard?
 While a VPN provides privacy and security by encrypting your internet connection, AdGuard can provide additional benefits by blocking ads, trackers, and malware at the network level, preventing them from reaching your device in the first place. AdGuard can also help speed up your browsing experience by reducing the amount of data being downloaded and improving page load times. By using both a VPN and AdGuard together, you can enhance your online privacy and security while also improving your browsing experience.
 
-## Use an encrypted messaging apps
+### Use an encrypted messaging apps
 
 Telegram and Signal are both popular messaging apps that focus on providing users with secure and private communication. While both apps offer end-to-end encryption, which means that only the sender and receiver can access the messages, there are some differences between them.
 
@@ -250,7 +250,7 @@ Telegram, on the other hand, is a cloud-based messaging app that is known for it
 
 In terms of which app is better, it depends on your specific needs and priorities. If you prioritize privacy and security above all else, Signal is likely the better choice. If you are more interested in features and speed, Telegram may be a better option. Ultimately, both apps offer a high level of security and privacy compared to many other messaging apps, and it is up to the user to decide which app is the best fit for them.
 
-## Use a privacy-focused browser
+### Use a privacy-focused browser
 
 [Firefox](https://www.mozilla.org/en-CA/firefox/new/) and [Brave](https://brave.com/) share many similarities as privacy-focused browsers that prioritize user privacy and security. They both provide built-in ad and tracker blocking, password managers, and support for private browsing mode. Moreover, they are both open-source and transparent about their code and development process, with a strong commitment to user control and customization for a better browsing experience.
 
