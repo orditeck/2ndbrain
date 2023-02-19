@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Lab/2. Hardware and Usage.md",
+                "file": "How to protect your online privacy.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Home Lab/2. Hardware and Usage.md",
+            "file": "How to protect your online privacy.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Home Lab/2. Hardware and Usage.md",
+            "file": "How to protect your online privacy.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Home Lab/2. Hardware and Usage.md"
+            "file": "How to protect your online privacy.md"
           }
         }
       }
@@ -123,6 +123,7 @@
   },
   "active": "9b4edf1013618f49",
   "lastOpenFiles": [
+    "Home Lab/2. Hardware and Usage.md",
     "Home Lab/1. Introduction.md",
     "From the Google Ecosystem to kinda self-hosted.md",
     "Draft - A good professional.md",
