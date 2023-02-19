@@ -119,15 +119,25 @@ Let's explore a bit of both sides.
 
 Moving away from Google can feel like a daunting task, but I'm glad to see that you're ready to take the first step. Let's start with something manageable and not too overwhelming.
 
-A good place to start would be to move away old photos and documents that you don't access often to a local storage that you own. An external hard drive or a Network Attached Storage (NAS) could be great options for this. However, it's essential to back up your data because if something happens to your primary storage device. For example, if your hard drive gets damaged, stolen, or lost, you could lose all your photos, documents, and other important data. That's why it's crucial to back up your data regularly to ensure you never lose it.
+But just before getting started...
 
-To keep your data secure, we should encrypt it before uploading it to a remote server. It's essential to encrypt our data to protect our privacy and prevent unauthorized access to our information. When you encrypt your data, you scramble it in a way that makes it unreadable without a decryption key. By encrypting our data, we can ensure that it stays safe and private, even if it falls into the wrong hands. I suggest using a VeraCrypt volume for encryption. VeraCrypt is an open-source tool that allows you to create encrypted volumes or containers that are password-protected. We will dive deeper into this in a more technical guide later on.
+### The importance of a reliable backup system
 
-I also understand the importance of having quick and easy access to your data. To address this, we will also explore online solutions like NextCloud, which is a secure and private cloud storage alternative that you can run on your own server or rent from a hosting provider. NextCloud will allow you to access your files and data from anywhere, at any time, just like Google Drive.
+One thing I want to remind you about is the importance of backing up your data. When you switch to a new service, it's essential to have a backup of your data to avoid losing it.
 
-I'm here to help you through this transition, and we can take it one step at a time. Let's start with the easy ones and then move forward as you become more comfortable. Don't hesitate to reach out in the comment section if you have any questions.
+One popular backup strategy that you might find useful is called the 3-2-1 backup strategy. It's a simple rule to follow that can help ensure your data is safe and sound. Here's how it works:
 
-### Email & Calendar
+- **3** copies of your data: You should have at least three copies of your data, including the original copy and two backups. This ensures that you have redundant copies in case one gets lost or damaged.
+- **2** different types of media: You should use at least two different types of media to store your backups. For example, you could store one copy on an external hard drive and another on a cloud storage service.
+- **1** copy offsite: It's important to have at least one copy of your backups stored offsite in case of a disaster, such as a fire or flood. This could be a backup stored in the cloud or at a friend or family member's house.
+
+So, before you make the switch to a new service, take the time to back up your data following the 3-2-1 backup strategy. It might seem like a bit of a hassle, but it's worth it for the peace of mind knowing that your data is safe and secure.
+
+To keep your backup secure, we should encrypt it before uploading it to a cloud service on storing it on a hard drive that could get lost or stolen. It's essential to encrypt our data to protect our privacy and prevent unauthorized access to our information. When you encrypt your data, you scramble it in a way that makes it unreadable without a decryption key. By encrypting our data, we can ensure that it stays safe and private, even if it falls into the wrong hands. 
+
+I suggest using a VeraCrypt volume for encryption. VeraCrypt is an open-source tool that allows you to create encrypted volumes or containers that are password-protected. We will dive deeper into this in a more technical guide later on.
+
+### Alternative for Email & Calendar
 
 #### ProtonMail & ProtonCalendar
 
@@ -153,7 +163,7 @@ It is a good alternative if you're concerned about your online privacy and secur
 
 Follow their [migration guide](https://proton.me/support/switch-from-gmail-to-proton) to move from Gmail to ProtonMail in a matter of minutes.
 
-### Documents
+### Alternative for Documents
 
 Managing your documents on your local computer means that you store your files on your computer's hard drive and can access them locally. This method of document management requires that you have access to the device where the files are stored and limits your ability to access the files remotely. 
 
@@ -175,7 +185,7 @@ Syncthing does not include an office suite so you'll need an offline solution li
 
 Collabora Online
 
-### Photos & Videos
+### Alternative for Photos & Videos
 
 #### Photoprism
 
@@ -201,6 +211,11 @@ Here are some helpful resources to assist with exporting your media from Google 
 - [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper): A script that consolidates your Google Takeout archive into a single folder organized chronologically.
 - [gilesknap/gphotos-sync](https://github.com/gilesknap/gphotos-sync): A tool that uses the Google Photos Library API to back up your Google Photos and Albums.
 
+#### Other alternatives to consider
+
+- [PhotoStructure](https://photostructure.com/)
+- [LibrePhotos](https://docs.librephotos.com/)
+
 #### How to automatically backup your photos & videos from your phone 
 
 In a previous section of this post, we discussed [[Google or Privacy, which do you value more#Non-collaborative: Syncthing|how Syncthing can be used to sync data between different devices]]. Let's now imagine that you have Photoprism installed on your server or computer, and you've already exported all your photos and videos from Google Photos to your Photoprism installation. You're also making regular encrypted backups of your library and upload them to the cloud.
@@ -219,6 +234,8 @@ Here are what the steps to use Syncthing to sync your photos to Photoprism on yo
     
 
 That's it! Syncthing will automatically sync your photos from your phone to Photoprism whenever a new photo is added to the "Camera" folder on your phone.
+
+It's worth noting that the method I  just discussed can be used for more than just syncing with Photoprism. In fact, you can use this method to save your phone's photos and videos directly to your computer, and then use any offline photo library management tool you prefer. Again, it's crucial to keep in mind the importance of backing up your library, ideally to multiple locations, to ensure the safety and accessibility of your data.
 
 Useful links:
 - [PhotoPrism User Guide: Indexing Your Originals](https://docs.photoprism.app/user-guide/library/originals/)
