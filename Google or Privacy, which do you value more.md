@@ -190,6 +190,8 @@ Collabora Online
 
 #### Photoprism
 
+![[Pasted image 20230219111415.png]]
+
 ##### What is Photoprism
 
 PhotoPrism is an open-source, self-hosted application for managing and sharing your personal photo collection. It provides features like automatic tagging, image recognition, and search capabilities, as well as allows you to store and access your photos from anywhere.
