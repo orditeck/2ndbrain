@@ -6,6 +6,8 @@ created: 2023-02-21
 
 Have you ever stopped to ask yourself how you handle your emotions? How you check in with yourself to see how you truly feel? How you get inspired, or how you find happiness in the small things? In a world that can be both beautiful and scary, it can be easy to get swept up in the chaos and forget to take a moment to simply be. But by taking the time to cultivate mindfulness, we can learn to better understand ourselves and the world around us.
 
+![[Pasted image 20230221145731.png]]
+
 Life can be tough. It hurts to live, but that's also the beauty of it. We get to feel all the pleasures and the difficulties. And in a world that is ultimately unprovable, it's worth remembering just how tiny the chances were that we ended up here as sentient beings. Mindfulness helps us appreciate the incredible opportunity we've been given to experience this world, and to connect more deeply with ourselves and others.
 
 In this blog post, we'll explore what mindfulness is, why it's important, and how it can change your life for the better. We'll look at the scientific research that supports the practice, and we'll share tips for how to apply mindfulness to your everyday life. We'll also delve into the history of mindfulness and its connection to Buddhism, and share stories of how mindfulness has helped others, including Nobel Prize winners and leading scientists.
