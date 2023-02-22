@@ -10,7 +10,7 @@ Have you ever stopped to ask yourself how you handle your emotions? How you chec
 
 Life can be tough. It hurts to live, but that's also the beauty of it. We get to feel all the pleasures and the difficulties. And in a world that is ultimately unprovable, it's worth remembering just how tiny the chances were that we ended up here as sentient beings. Mindfulness helps us appreciate the incredible opportunity we've been given to experience this world, and to connect more deeply with ourselves and others.
 
-In this blog post, we'll explore what mindfulness is, why it's important, and how it can change your life for the better. We'll look at the scientific research that supports the practice, and we'll share tips for how to apply mindfulness to your everyday life. We'll also delve into the history of mindfulness and its connection to Buddhism, and share stories of how mindfulness has helped others, including Nobel Prize winners and leading scientists.
+In this short blog post, we'll explore what mindfulness is, why it's important, and how it can change your life for the better. We'll look at the scientific research that supports the practice, and we'll share tips for how to apply mindfulness to your everyday life.
 
 So if you're ready to embark on a journey of self-discovery and learn how to live in the moment, then let's get started.
 
@@ -24,19 +24,18 @@ So why should anyone consider mindfulness as part of a healthy lifestyle? Well, 
 
 But the benefits of mindfulness go beyond mental and physical health. When we are mindful, we are better able to communicate with ourselves and with others. We are more attuned to our own needs and feelings, which allows us to make better decisions and set healthier boundaries. We are also more present in our interactions with others, which can lead to more meaningful connections and relationships.
 
-## What it's not
+1.  Mindfulness is a practice that can help you develop a more positive and accepting relationship with your experiences. However, it won't eliminate negative emotions or challenges altogether.
+    
+2.  Mindfulness is not about ignoring or avoiding difficult thoughts or emotions, but rather, about facing them with openness and curiosity. It's not a form of escapism.
+    
+3.  Although mindfulness has its roots in Buddhism, it can be practiced by people of all backgrounds and beliefs. Mindfulness is not a religion or a belief system.
+    
+4.  Mindfulness is more about being present in the moment, accepting what is, and observing your thoughts and feelings without judgment. It's not about achieving a particular state of mind or reaching a specific goal.
+    
+5.  Although meditation is one of the most common practices associated with mindfulness, there are many other ways to cultivate mindfulness in your daily life, such as paying attention to your breath or engaging in mindful movement. Mindfulness is not just about meditation.
+    
 
-1.  Mindfulness is not a magic solution that will make all your problems disappear. It's a practice that can help you develop a more positive and accepting relationship with your experiences, but it won't eliminate negative emotions or challenges altogether.
-    
-2.  Mindfulness is not a form of escapism. It's not about ignoring or avoiding difficult thoughts or emotions, but rather, about facing them with openness and curiosity.
-    
-3.  Mindfulness is not a religion or a belief system. Although it has its roots in Buddhism, mindfulness can be practiced by people of all backgrounds and beliefs.
-    
-4.  Mindfulness is not about achieving a particular state of mind or reaching a specific goal. It's more about being present in the moment, accepting what is, and observing your thoughts and feelings without judgment.
-    
-5.  Mindfulness is not just about meditation. Although meditation is one of the most common practices associated with mindfulness, there are many other ways to cultivate mindfulness in your daily life, such as paying attention to your breath or engaging in mindful movement.
-    
-By understanding what mindfulness is not, we can clarify our expectations and approach the practice with an open mind and a willingness to learn.
+By understanding what mindfulness is and is not, we can approach the practice with clarity and an open mind, and work towards developing a more positive and accepting relationship with our experiences.
 
 ## Start small: how to practice mindfulness
 
