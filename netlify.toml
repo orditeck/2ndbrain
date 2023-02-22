@@ -1,5 +1,5 @@
 [build]
-command = "mv netlify.toml .netlify.toml && rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && mv .netlify.toml netlify.toml && git clone https://github.com/orditeck/cheap-publish.git __site && mv __site/run.sh run.sh && run.sh"
+command = "mv netlify.toml .netlify.toml && rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && mv .netlify.toml netlify.toml && git clone https://github.com/orditeck/cheap-publish.git __site && mv __site/run.sh . && run.sh"
 publish = "public"
 
 [build.environment]
