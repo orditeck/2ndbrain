@@ -48,6 +48,13 @@ One of the most powerful things about mindfulness is that it can be practiced an
 
 As you become more comfortable with mindfulness, you can start to incorporate it into other areas of your life. When you're having a conversation with someone, really listen to what they're saying without thinking about how you're going to respond. When you're working on a task, focus on that task without getting distracted by other things. And when you're feeling stressed or anxious, take a few deep breaths and focus on your breath to help calm your mind and body.
 
+## Just breathe
+
+![[Layer 1.png]]
+![[Layer 2.png]]
+![[Layer 3.png]]
+![[Layer 4.png]]
+
 ## Conclusion
 
 Many successful people have credited mindfulness with helping them achieve their goals. Steve Jobs, for example, was a practitioner of Zen meditation and mindfulness, which he said helped him to stay focused and creative.
