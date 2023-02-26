@@ -1,6 +1,6 @@
 ---
 created: 2023-02-12
-modified: 2023-02-19
+modified: 2023-02-26
 ---
 I started using Obsidian a few weeks ago and loved it right away. I then contemplated the idea of publishing online. I had a blog in the past but it felt different. Obsidian felt like that was it.
 
@@ -74,6 +74,8 @@ Note that this is done dynamically in JavaScript because I was lazy, and it only
 > <sub>- Thomas Edison</sub>
 
 ## TODO
+- Write a proper README with instruction on how to use
+- Write some doc about the changes I made to the comment layout (I use Remark42) and/or remove the comment configs and let it up to the user to decide / figure out what they want
 - Fix the graph when URL contains a `#` (current node doesn't seem set)
 - Identify external link
 - Open external link in new window
