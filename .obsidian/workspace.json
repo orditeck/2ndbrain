@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/Unlock your inner peace -  an introduction to mindfulness mindfulness.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/Unlock your inner peace -  an introduction to mindfulness mindfulness.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/Unlock your inner peace -  an introduction to mindfulness mindfulness.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/Unlock your inner peace -  an introduction to mindfulness mindfulness.md"
+                "file": "README.md"
               }
             }
           }
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 323.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,17 +148,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2046c5dfa948622d",
+  "active": "e7045387ee6bffbc",
   "lastOpenFiles": [
+    "Blog/Unlock your inner peace -  an introduction to mindfulness mindfulness.md",
+    "assets/ff0152a0-08ad-4d78-a118-a6a7660bfd16 (Small).jpg",
+    "README.md",
+    "Blog/Draft - Deep breathe.md",
+    "assets/Layer 4.png",
+    "assets/Layer 3.png",
+    "assets/Layer 2.png",
+    "assets/Layer 1.png",
     "assets/Pasted image 20230205103031.png",
     "assets/Pasted image 20230205113019.png",
     "assets/Pasted image 20230205113100.png",
     "assets/Pasted image 20230205113445.png",
-    "assets/Pasted image 20230205113735.png",
-    "assets/Pasted image 20230205120806.png",
-    "assets/Pasted image 20230205125911.png",
-    "assets/Pasted image 20230212223136.png",
-    "assets/Pasted image 20230218191013.png",
-    "assets/Pasted image 20230218194025.png"
+    "assets/Pasted image 20230205113735.png"
   ]
 }
