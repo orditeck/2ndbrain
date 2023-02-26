@@ -1,6 +1,7 @@
 ---
 title: "Unlock your inner peace: an introduction to mindfulness"
 created: 2023-02-21
+modified: 2023-02-26
 ---
 ## Introduction
 
