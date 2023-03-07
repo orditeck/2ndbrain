@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "67ec1e17d3abda67",
+        "id": "ec3f6e085fa3e6d2",
         "type": "tabs",
         "children": [
           {
-            "id": "e7045387ee6bffbc",
+            "id": "17f91d1b65117d05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Improvements to Cheap Publish.md",
+                "file": "Home Lab/4. Home Assistant.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Improvements to Cheap Publish.md",
+                "file": "Home Lab/4. Home Assistant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Improvements to Cheap Publish.md",
+                "file": "Home Lab/4. Home Assistant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Improvements to Cheap Publish.md"
+                "file": "Home Lab/4. Home Assistant.md"
               }
             }
           }
@@ -148,17 +148,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7045387ee6bffbc",
+  "active": "17f91d1b65117d05",
   "lastOpenFiles": [
-    "README.md",
+    "Blog/Unlock your inner peace -  an introduction to mindfulness mindfulness.md",
+    "assets/ff0152a0-08ad-4d78-a118-a6a7660bfd16 (Small).jpg",
     "Improvements to Cheap Publish.md",
+    "README.md",
     "How to protect your online privacy.md",
     "Google or Privacy, which do you value more.md",
     "Draft - A good professional.md",
-    "Blog/Unlock your inner peace -  an introduction to mindfulness mindfulness.md",
     "Home Lab/1. Introduction.md",
     "Blog/Draft - Deep breathe.md",
-    "assets/ff0152a0-08ad-4d78-a118-a6a7660bfd16 (Small).jpg",
     "assets/Layer 4.png",
     "assets/Layer 3.png",
     "assets/Layer 2.png",
