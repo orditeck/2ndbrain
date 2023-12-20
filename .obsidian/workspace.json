@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/Unlock your inner peace -  an introduction to mindfulness mindfulness.md",
+                "file": "Blog/Second-Hand, Second Tax - Government Policies Affecting Resellers.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "afb5027806fb9d7d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/Unlock your inner peace -  an introduction to mindfulness mindfulness.md",
+                "file": "Blog/Second-Hand, Second Tax - Government Policies Affecting Resellers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/Unlock your inner peace -  an introduction to mindfulness mindfulness.md",
+                "file": "Blog/Second-Hand, Second Tax - Government Policies Affecting Resellers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/Unlock your inner peace -  an introduction to mindfulness mindfulness.md"
+                "file": "Blog/Second-Hand, Second Tax - Government Policies Affecting Resellers.md"
+              }
+            }
+          },
+          {
+            "id": "b0d91e9e08151955",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -139,25 +157,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2046c5dfa948622d",
+  "active": "17f91d1b65117d05",
   "lastOpenFiles": [
-    "assets/ff0152a0-08ad-4d78-a118-a6a7660bfd16 (Small).jpg",
     "Blog/Unlock your inner peace -  an introduction to mindfulness mindfulness.md",
-    "Improvements to Cheap Publish.md",
-    "README.md",
-    "How to protect your online privacy.md",
+    "Blog/Second-Hand, Second Tax - Government Policies Affecting Resellers.md",
+    "Blog/Draft - eBay charges taxes on individual sales.md",
+    "assets/Pasted image 20231220104457.png",
     "Google or Privacy, which do you value more.md",
-    "Draft - A good professional.md",
+    "Home Lab/4. Home Assistant.md",
+    "Home Lab/3.2. Blue Iris.md",
+    "Home Lab/3.1. Photoprism.md",
+    "Draft - Mindfullness improvements.md",
+    "Home Lab/2. Hardware and Usage.md",
     "Home Lab/1. Introduction.md",
+    "Draft -.md",
+    "How to protect your online privacy.md",
+    "Improvements to Cheap Publish.md",
+    "Draft - A good professional.md",
+    "assets/ff0152a0-08ad-4d78-a118-a6a7660bfd16 (Small).jpg",
+    "README.md",
     "Blog/Draft - Deep breathe.md",
     "assets/Layer 4.png",
     "assets/Layer 3.png",
@@ -166,7 +193,6 @@
     "assets/Pasted image 20230205103031.png",
     "assets/Pasted image 20230205113019.png",
     "assets/Pasted image 20230205113100.png",
-    "assets/Pasted image 20230205113445.png",
-    "assets/Pasted image 20230205113735.png"
+    "assets/Pasted image 20230205113445.png"
   ]
 }
