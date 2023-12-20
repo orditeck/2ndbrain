@@ -1,6 +1,6 @@
 ---
 created: 2023-02-12
-modified: 2023-02-26
+modified: 2023-12-20
 ---
 I started using Obsidian in early 2023 and loved it right away. I then contemplated the idea of publishing online. I had a blog in the past but it felt different. Obsidian felt like that was it.
 
@@ -26,7 +26,7 @@ I started using it and quickly noticed a few bugs. Enough to bother me. However,
 
 So what did I change?
 
-## More flexible frontmatter
+## More flexible frontmatter (now called Properties)
 I added the following frontmatter keys:
 - `title`: allows to override the page's title without changing the filename
 - `created`: shows the date the page was initially created, eg: `Posted February 13, 2023` 
@@ -69,6 +69,7 @@ Note that this is done dynamically in JavaScript because I was lazy, and it only
 - Updated `obsidian-export` to its latest version
 - Allowed `.` in filename, e.g. `1. Start here`, `2. Once Upon A Time`, etc. Useful for the sidebar since it's sorted by name.
 - Better `blockquote` style
+- Remove (commented-out) single dollar sign $ from LaTeX/katex's `renderMathInElement`
 
 > "I have not failed. I've just found 10,000 ways that won't work." 
 > <sub>- Thomas Edison</sub>
