@@ -1,5 +1,5 @@
 ---
-title: "Second-Hand, Double Taxed: The Silent Government Scam in Online Reselling"
+title: "Second-hand, double taxed: the silent government scam in online reselling"
 created: 2023-12-20
 ---
 Selling niche products in a smaller area can be challenging, testing one's patience and often requiring a compromise on price. This is precisely what led me to turn to eBay to sell my MacBook Pro 14" M1 Max. I got this MacBook from a friend who runs a small tech business. Post-pandemic, he faced tough decisions, including laying off a developer and selling their work computer - the very MacBook I bought.
