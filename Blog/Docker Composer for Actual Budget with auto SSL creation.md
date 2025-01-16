@@ -9,7 +9,7 @@ I use Portainer to manage my Docker containers, through _Stacks_. They're basica
 
 Since AB (that's Actual Budget) is running is on a server in my house and not directly on the computer from which I want to access it, I cannot use `localhost:5006`. It's not running locally. I have to use `10.1.0.42:5006` . However, I was welcomed by this:
 
-> _Actual_ requires access to _SharedArrayBuffer_ in order to function properly
+> _Actual_ requires access to [_SharedArrayBuffer_](https://actualbudget.org/docs/troubleshooting/shared-array-buffer) in order to function properly
 
 K. Quick Google. SharedArrayBuffer needs https. K. _Try https_. Doesn't work. It doesn't have a certificate. Great.
 
