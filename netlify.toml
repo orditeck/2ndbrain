@@ -20,7 +20,7 @@ SITE_TITLE = "Kev's Second 🧠"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
-SITE_URL = "https://garden.nevek.co"
+SITE_URL = "https://garden.k11e.com"
 # (Optional) Site Timezone
 TIMEZONE = "America/New_York"
 ZOLA_VERSION = "0.15.2"
